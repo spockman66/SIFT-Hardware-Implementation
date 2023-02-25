@@ -1,0 +1,29 @@
+14:16:35 **** Incremental Build of configuration Debug for project app_demo ****
+make all 
+Building file: ../src/main.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv-none-embed-gcc -march=rv32im -mabi=ilp32 -mcmodel=medlow -msmall-data-limit=8 -mno-save-restore -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common  -g -DUSE_FULL_ASSERT -I"D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\src\Bsp\Core" -I"D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\src\Bsp\libwrap\sys" -I"D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\src\Bsp\libwrap\stdlib" -I"D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\src\Bsp\libwrap\misc" -I"D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\src\Bsp\Driver" -std=gnu11 -MMD -MP -MF"src/main.d" -MT"src/main.o" -c -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: app_demo.elf
+Invoking: GNU RISC-V Cross C Linker
+riscv-none-embed-gcc -march=rv32im -mabi=ilp32 -mcmodel=medlow -msmall-data-limit=8 -mno-save-restore -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common  -g -T "D:\CreateIC\Project_v001\risc_v\VexRiscv_Prj\Firmware\app_prj\app_demo\app.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"app_demo.map" --specs=nano.specs -o "app_demo.elf"  ./src/Bsp/libwrap/sys/_exit.o ./src/Bsp/libwrap/sys/close.o ./src/Bsp/libwrap/sys/execve.o ./src/Bsp/libwrap/sys/fork.o ./src/Bsp/libwrap/sys/fstat.o ./src/Bsp/libwrap/sys/getpid.o ./src/Bsp/libwrap/sys/isatty.o ./src/Bsp/libwrap/sys/kill.o ./src/Bsp/libwrap/sys/link.o ./src/Bsp/libwrap/sys/lseek.o ./src/Bsp/libwrap/sys/open.o ./src/Bsp/libwrap/sys/openat.o ./src/Bsp/libwrap/sys/read.o ./src/Bsp/libwrap/sys/sbrk.o ./src/Bsp/libwrap/sys/stat.o ./src/Bsp/libwrap/sys/times.o ./src/Bsp/libwrap/sys/unlink.o ./src/Bsp/libwrap/sys/wait.o ./src/Bsp/libwrap/sys/write.o  ./src/Bsp/libwrap/stdlib/malloc.o  ./src/Bsp/libwrap/misc/write_hex.o  ./src/Bsp/Driver/hme_gpio.o ./src/Bsp/Driver/hme_iic.o ./src/Bsp/Driver/hme_plic.o ./src/Bsp/Driver/hme_spi.o ./src/Bsp/Driver/hme_timer.o ./src/Bsp/Driver/hme_uart.o ./src/Bsp/Driver/spi_flash.o ./src/Bsp/Driver/system.o  ./src/Bsp/Core/start.o ./src/Bsp/Core/trap.o ./src/Bsp/Core/trap_handle.o  ./src/main.o   
+Finished building target: app_demo.elf
+ 
+Invoking: GNU RISC-V Cross Create Flash Image
+riscv-none-embed-objcopy -O ihex "app_demo.elf"  "app_demo.hex"
+Finished building: app_demo.hex
+ 
+Invoking: GNU RISC-V Cross Create Listing
+riscv-none-embed-objdump --source --all-headers --demangle --line-numbers --wide "app_demo.elf" > "app_demo.lst"
+Finished building: app_demo.lst
+ 
+Invoking: GNU RISC-V Cross Print Size
+riscv-none-embed-size --format=berkeley "app_demo.elf"
+   text	   data	    bss	    dec	    hex	filename
+  16536	    946	 168164	 185646	  2d52e	app_demo.elf
+Finished building: app_demo.siz
+ 
+
+14:16:37 Build Finished. 0 errors, 0 warnings. (took 2s.139ms)
+

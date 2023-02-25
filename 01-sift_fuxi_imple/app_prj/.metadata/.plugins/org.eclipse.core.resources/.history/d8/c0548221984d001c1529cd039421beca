@@ -1,0 +1,43 @@
+
+#ifndef __SYS_TYPE_H__
+#define __SYS_TYPE_H__
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include "stdint.h"
+
+#define __I                       volatile const	/* 'read only' permissions      */
+#define __O                       volatile        /* 'write only' permissions     */
+#define __IO                      volatile        /* 'read / write' permissions   */
+
+
+typedef   signed       char       int8_t;
+typedef   signed short  int       int16_t;
+typedef   signed       long       int32_t;
+typedef   signed  long long       int64_t;
+
+/* exact-width unsigned integer types */
+typedef   unsigned      char      uint8_t;
+typedef   unsigned short int      uint16_t;
+typedef   unsigned      long      uint32_t;
+typedef   unsigned long long      uint64_t;
+
+#define BSP_VERSION        (0x20211123)
+
+typedef enum{
+	EN_RET_TYPE_SUCCESS = 0,
+	EN_RET_TYPE_ERR,
+	EN_RET_TYPE_REG_FAIL,
+	EN_RET_TYPE_PTR_NULL,
+	EN_RET_TYPE_PARAM_ERR,
+	EN_RET_TYPE_TIMER_OUT
+}EN_RET_TYPE;
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif	/* __SYS_TYPE_H__*/

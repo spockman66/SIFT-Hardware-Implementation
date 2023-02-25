@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aoc version="2.3" device="P1P060N0V324C7">
+	<ioConstraint>
+		<IO signal_name="CLK_25M" location="IO_28P_GC_204" inst_name="io_CLK_25M_inst" direction="input" operation_mode="clock"/>
+		<IO signal_name="RST_N" location="IO_22P_303" inst_name="io_RST_N_inst" direction="input" operation_mode="normal"/>
+		<IO signal_name="i2c0_scl" location="" inst_name="io_i2c0_scl_inst" direction="inout" operation_mode="normal"/>
+		<IO signal_name="i2c0_sda" location="" inst_name="io_i2c0_sda_inst" direction="inout" operation_mode="normal"/>
+		<IO signal_name="jtag_tck" location="IO_14_SEU_FAIL_4" inst_name="io_jtag_tck_inst" direction="input" operation_mode="clock"/>
+		<IO signal_name="jtag_tdi" location="IO_17_PS_D14_4" inst_name="io_jtag_tdi_inst" direction="input" operation_mode="normal"/>
+		<IO signal_name="jtag_tdo" location="IO_15_PS_BUSY_4" inst_name="io_jtag_tdo_inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="jtag_tms" location="IO_16_PS_D15_4" inst_name="io_jtag_tms_inst" direction="input" operation_mode="normal"/>
+		<IO signal_name="led_0_" location="IO_44P_206" inst_name="io_led_0__inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="led_1_" location="IO_44N_206" inst_name="io_led_1__inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="led_2_" location="IO_42P_206" inst_name="io_led_2__inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="led_3_" location="IO_42N_206" inst_name="io_led_3__inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="spi0_clk" location="" inst_name="io_spi0_clk_inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="spi0_miso" location="" inst_name="io_spi0_miso_inst" direction="input" operation_mode="normal"/>
+		<IO signal_name="spi0_mosi" location="" inst_name="io_spi0_mosi_inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="spi0_scl" location="" inst_name="io_spi0_scl_inst" direction="output" operation_mode="normal"/>
+		<IO signal_name="uart0_rxd" location="IO_32N_304" inst_name="io_uart0_rxd_inst" direction="input" operation_mode="normal" io_standard="1.8V"/>
+		<IO signal_name="uart0_txd" location="IO_32P_304" inst_name="io_uart0_txd_inst" direction="output" operation_mode="normal" io_standard="1.8V"/>
+	</ioConstraint>
+	<dedicatedCell>
+		<DCELL name="u_ddr_v1_u_inst_u_ddr23phy" module_name="phy_wrapper"/>
+		<DCELL name="u_ddr_v1_u_inst_u_ddrc" module_name="ctrl_wrapper"/>
+		<DCELL name="u_ddr_v1_u_inst_u_ddrc_crg" module_name="DDR_CRG_CORE"/>
+	</dedicatedCell>
+</aoc>
+

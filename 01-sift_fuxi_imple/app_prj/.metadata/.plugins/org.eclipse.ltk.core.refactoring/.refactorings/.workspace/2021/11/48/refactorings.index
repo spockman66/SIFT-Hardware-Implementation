@@ -1,0 +1,3 @@
+1637566456952	Delete resource 'app_demo/bootloader.ld'
+1637666795696	Delete resource 'app_demo/src/Bsp/Core/init.c'
+1637917502333	Delete resource 'app_demo/src/Bsp/Driver/sys_type.h'

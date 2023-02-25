@@ -1,0 +1,100 @@
+/*
+ * hme_plic.c
+ *
+ *  Created on: 2021Äê11ÔÂ10ÈÕ
+ *      Author: Administrator
+ */
+
+#include "hme_plic.h"
+
+
+static uint16_t DevIdTableGet(uint16_t usIntrId)
+{
+	uint16_t usDevId = EN_DEV_ID_MAX;
+
+	return usDevId;
+}
+
+
+
+uint16_t DevIntrIdTableGet(uint16_t usDevId)
+{
+
+}
+
+uint32_t DevPriorityOffsetTableGet(uint16_t usDevId)
+{
+
+}
+uint32_t DevPendingOffsetTableGet(uint16_t usDevId)
+{
+
+}
+
+uint32_t DevIntrEnTableGet(uint16_t usDevId)
+{
+
+}
+
+EN_RET_TYPE IntrPrioritySet(uint16_t usDevId, uint8_t ucPriority)
+{
+
+}
+
+EN_RET_TYPE IntrPriorityGet(uint16_t usDevId)
+{
+
+}
+
+EN_RET_TYPE IntrPendingGet(uint16_t usDevId)
+{
+
+}
+
+EN_RET_TYPE IntrEnableSet(uint32_t ulEnable)
+{
+
+}
+
+uint32_t IntrEnableGet(void)
+{
+
+}
+
+EN_RET_TYPE IntrThresholdSet(EN_PRIORITY enIntrThreshold)
+{
+
+}
+
+uint8_t IntrThresholdGet(void)
+{
+
+}
+
+EN_RET_TYPE IntrRegisterHander(PST_PLIC_DEV_PARAM pstIntrAttr, uint16_t usDevId)
+{
+
+}
+
+
+void ExternalInterrupt(void)
+{
+
+}
+
+
+uint16_t IntrClaimGet()
+{
+
+}
+
+EN_RET_TYPE IntrFinishNotice(uint16_t usIntrId)
+{
+
+}
+
+
+void ExternalInterrupt()
+{
+
+}

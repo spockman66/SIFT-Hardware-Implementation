@@ -1,0 +1,4 @@
+1636700709255	Delete resource 'app_demo/Debug/app_demo.bin'
+1636700912678	Delete resource 'app_demo/default.ld'
+1636701359119	Delete resource 'app_demo/bootloader.ld'
+1636807340686	Delete resource 'app_demo/src/Bsp/libwrap'

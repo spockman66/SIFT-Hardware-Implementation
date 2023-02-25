@@ -1,0 +1,3 @@
+unset progressbar
+alias q quit
+alias h history

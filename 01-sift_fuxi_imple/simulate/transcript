@@ -1,0 +1,491 @@
+# Reading D:/software_kits/modelsim_10.6d/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.6d Feb 24 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do sift_feat_rtl_sim.do
+# if {[file exists rtl_work]} {
+#     vdel -lib rtl_work -all
+# }
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt".  Locker is WangTao@KICKASSWT.
+# vlib rtl_work
+# ** Warning: (vlib-34) Library already exists at "rtl_work".
+# vmap -c work rtl_work
+# Model Technology ModelSim SE-64 vmap 10.6d Lib Mapping Utility 2018.02 Feb 24 2018
+# vmap -c work rtl_work 
+# Modifying modelsim.ini
+# ** Warning: vmap will not overwrite local modelsim.ini.
+#          MODELSIM set to modelsim.ini.
+#          modelsim.ini was modified because copy failed
+#          The MODELSIM environment variable is used to find the modelsim.ini
+#          file, so this local copy will not be used.
+# vlog -vlog01compat -work work D:/CreateIC/Fuxi/Software/data/lib/p1_sim.v
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 14:48:16 on Jun 21,2022
+# vlog -reportprogress 300 -vlog01compat -work work D:/CreateIC/Fuxi/Software/data/lib/p1_sim.v 
+# -- Compiling module ADD1_A
+# -- Compiling module GND
+# -- Compiling module IBUF
+# -- Compiling module IOBUF
+# -- Compiling module IOC
+# -- Compiling module DFFRSEN
+# -- Compiling module LUT5_2
+# -- Compiling module LUT6
+# -- Compiling module MUXF7
+# -- Compiling module MUXF8
+# -- Compiling module OBUF
+# -- Compiling module OBUFT
+# -- Compiling module REG
+# -- Compiling module VCC
+# -- Compiling module LRAM32X2SP
+# -- Compiling module LRAM32X2QP
+# -- Compiling module LRAM32M
+# -- Compiling module LRAM64X1SP
+# -- Compiling module LRAM64X1DP
+# -- Compiling module LRAM64X1QP
+# -- Compiling module LRAM64M
+# -- Compiling module LRAM128X1SP
+# -- Compiling module LRAM128X2SP
+# -- Compiling module LRAM128X1DP
+# -- Compiling module LRAM256X1SP
+# -- Compiling module SR16X2
+# -- Compiling module SR32X1
+# -- Compiling module SR64X1
+# -- Compiling module SR128X1
+# -- Compiling module GBUF
+# -- Compiling module RBUF
+# -- Compiling module DBUF
+# -- Compiling module GBUF_GATE
+# -- Compiling module RBUF_GATE
+# -- Compiling module DBUF_GATE
+# -- Compiling module DELAY_BUF
+# -- Compiling module MULT_18X18
+# -- Compiling module UNSIGNED_18X18
+# -- Compiling module MULT_35X18
+# -- Compiling module MULT_35X35
+# -- Compiling module MULT_69X18
+# -- Compiling module MULT_69X69
+# -- Compiling module EMB5K
+# -- Compiling module EMB9K
+# -- Compiling module EMB18K
+# -- Compiling module FIFO5K
+# -- Compiling module FIFO9K
+# -- Compiling module FIFO18K
+# -- Compiling module SIO
+# -- Compiling module CS_REG_PRIM
+# -- Compiling module CS_GND_PRIM
+# -- Compiling module CS_VCC_PRIM
+# -- Compiling module CS_REG_E_PRIM
+# -- Compiling module CS_REG_CLK_PRIM
+# -- Compiling module mx2a
+# -- Compiling module CS_BUF_PRIM
+# -- Compiling module CS_INV_PRIM
+# -- Compiling module AND2
+# -- Compiling module ADC
+# -- Compiling module ADD_1BIT
+# -- Compiling module AND4
+# -- Compiling module BASIC_IO
+# -- Compiling module BRAM18KV1
+# -- Compiling module CARRY_SKIP_IN
+# -- Compiling module CARRY_SKIP_OUT
+# -- Compiling module CFG_CLK_GATING
+# -- Compiling module CFG_DYN_SWITCH_S2
+# -- Compiling module CFGINV
+# -- Compiling module CFGMUX10_cmos
+# -- Compiling module CFGMUX10S4
+# -- Compiling module CFGMUX12_43
+# -- Compiling module CFGMUX16K
+# -- Compiling module CFGMUX16S4
+# -- Compiling module CFGMUX16
+# -- Compiling module CFGMUX20I0
+# -- Compiling module CFGMUX24
+# -- Compiling module CFGMUX2I0
+# -- Compiling module CFGMUX2S1
+# -- Compiling module CFGMUX2
+# -- Compiling module CFGMUX3I0
+# -- Compiling module CFGMUX3I1
+# -- Compiling module CFGMUX3
+# -- Compiling module CFGMUX4_GCO
+# -- Compiling module CFGMUX4S2
+# -- Compiling module CFGMUX4
+# -- Compiling module CFGMUX5
+# -- Compiling module CFGMUX6_32
+# -- Compiling module CFGMUX6
+# -- Compiling module CFGMUX8_42
+# -- Compiling module CFGMUX8S3
+# -- Compiling module CFG_NOTINV
+# -- Compiling module clk_fb_compensate
+# -- Compiling module CVLVDS
+# -- Compiling module DIV
+# -- Compiling module DLLV1
+# -- Compiling module DSP56V1
+# -- Compiling module efuse_idx16
+# -- Compiling module EMBMUX5S4
+# -- Compiling module FG6X2
+# -- Compiling module FIFOCTRL18KV1
+# -- Compiling module hpc_d2s
+# -- Compiling module hpc_s2d
+# -- Compiling module IOC_CMOS
+# -- Compiling module IOC_LVDS
+# -- Compiling module JTAG_DBWV1
+# -- Compiling module LBUF
+# -- Compiling module LRAM64
+# -- Compiling module LRAM_CTRL
+# -- Compiling module MUX2S
+# -- Compiling module OSCV1
+# -- Compiling module PLLV1
+# -- Compiling module REG2CKSR
+# -- Compiling module SOC_SLAVE_BUS
+# -- Compiling module supply0_guts
+# -- Compiling module supply1_guts
+# -- Compiling module UPDATE
+# -- Compiling module cts_dffrs
+# -- Compiling module SDLLV1
+# -- Compiling module MDLLV1
+# -- Compiling module MDLL_TOP
+# -- Compiling module SDLL_TOP
+# -- Compiling module DNT_emb_ckmux2m8
+# -- Compiling module gclk_clk_gate
+# -- Compiling module dsp_clkgate
+# -- Compiling module dsp_compunit
+# -- Compiling module dsp_core
+# -- Compiling module dsp_input_buf
+# -- Compiling module DSPCELL_AND2
+# -- Compiling module DSPCELL_AND3
+# -- Compiling module DSPCELL_MUX2
+# -- Compiling module DSPCELL_MUX4
+# -- Compiling module DSPCELL_MUX8
+# -- Compiling module DSPCELL_SELBUF
+# -- Compiling module DSPCELL_FULLADD
+# -- Compiling module DSPCELL_ADD
+# -- Compiling module DSPCELL_BIT_ADD
+# -- Compiling module DSPCELL_MULT
+# -- Compiling module dsp_multblock
+# -- Compiling module dsp_postadder
+# -- Compiling module dsp_preadder
+# -- Compiling module dsp_ufcmux
+# -- Compiling module ECC_DECODER
+# -- Compiling module ecc_decoder_core
+# -- Compiling module error_bit_decoder
+# -- Compiling module ecc_dec_wrap
+# -- Compiling module ECC_ENCODER
+# -- Compiling module ecc_encoder_core
+# -- Compiling module ecc_enc_wrap
+# -- Compiling module emb18k_ext
+# -- Compiling module emb5k_core
+# -- Compiling module emb5k_top
+# ** Warning: D:/CreateIC/Fuxi/Software/data/lib/p1_sim.v(15933): (vlog-2182) 'mem' might be read before written in always_comb or always @* block.
+# ** Warning: D:/CreateIC/Fuxi/Software/data/lib/p1_sim.v(16011): (vlog-2182) 'mem' might be read before written in always_comb or always @* block.
+# -- Compiling module fifo_ctrl_core
+# -- Compiling module gry2bin
+# -- Compiling module prog_fe
+# -- Compiling module fifo_pkarbit
+# -- Compiling module fifo_pkslice
+# -- Compiling module glbsr
+# -- Compiling module CLK
+# -- Compiling module ILOGIC
+# -- Compiling module OLOGIC
+# -- Compiling module ioc_latn_ar
+# -- Compiling module ioc_dff_asr
+# -- Compiling module ioc_dffn_asr
+# -- Compiling module LUT5
+# -- Compiling module MUX2S_L
+# -- Compiling module OENC
+# -- Compiling module co_lock_gate
+# -- Compiling module PLL_TOP
+# -- Compiling module CSGPIO
+# -- Compiling module io_data
+# -- Compiling module IO_MUX2S1
+# -- Compiling module iob_dff
+# -- Compiling module dff_n2mx
+# -- Compiling module dff_2mx
+# -- Compiling module ahb_cfg_register
+# -- Compiling module bus_top
+# -- Compiling module CFGMUX2S1_203
+# -- Compiling module CFGMUX2S1_340
+# -- Compiling module CFGMUX8S3_600
+# -- Compiling module ctrl_wrapper
+# -- Compiling module DDR_CRG_CORE
+# -- Compiling module GX_CRG_CORE
+# -- Compiling module PCIE_V1
+# -- Compiling module phy_wrapper
+# -- Compiling module SERDES_PHY_V1
+# -- Compiling module GUC_GPIO
+# -- Compiling module mybuf
+# 
+# Top level modules:
+# 	ADD1_A
+# 	GND
+# 	IBUF
+# 	IOBUF
+# 	IOC
+# 	LUT5_2
+# 	LUT6
+# 	MUXF7
+# 	MUXF8
+# 	OBUF
+# 	OBUFT
+# 	REG
+# 	VCC
+# 	LRAM32X2SP
+# 	LRAM32X2QP
+# 	LRAM32M
+# 	LRAM64X1SP
+# 	LRAM64X1DP
+# 	LRAM64X1QP
+# 	LRAM64M
+# 	LRAM128X1SP
+# 	LRAM128X2SP
+# 	LRAM128X1DP
+# 	LRAM256X1SP
+# 	SR16X2
+# 	SR32X1
+# 	SR64X1
+# 	SR128X1
+# 	GBUF
+# 	RBUF
+# 	DBUF
+# 	GBUF_GATE
+# 	RBUF_GATE
+# 	DBUF_GATE
+# 	DELAY_BUF
+# 	MULT_18X18
+# 	UNSIGNED_18X18
+# 	MULT_35X18
+# 	MULT_35X35
+# 	MULT_69X18
+# 	MULT_69X69
+# 	EMB5K
+# 	EMB9K
+# 	EMB18K
+# 	FIFO5K
+# 	FIFO9K
+# 	FIFO18K
+# 	SIO
+# 	CS_REG_E_PRIM
+# 	CS_REG_CLK_PRIM
+# 	mx2a
+# 	CS_BUF_PRIM
+# 	CS_INV_PRIM
+# 	AND2
+# 	ADC
+# 	ADD_1BIT
+# 	AND4
+# 	CARRY_SKIP_IN
+# 	CARRY_SKIP_OUT
+# 	CFG_CLK_GATING
+# 	CFG_DYN_SWITCH_S2
+# 	CFGINV
+# 	CFGMUX10_cmos
+# 	CFGMUX10S4
+# 	CFGMUX12_43
+# 	CFGMUX16K
+# 	CFGMUX16S4
+# 	CFGMUX16
+# 	CFGMUX20I0
+# 	CFGMUX24
+# 	CFGMUX2I0
+# 	CFGMUX2
+# 	CFGMUX3I0
+# 	CFGMUX3I1
+# 	CFGMUX3
+# 	CFGMUX4_GCO
+# 	CFGMUX4S2
+# 	CFGMUX4
+# 	CFGMUX5
+# 	CFGMUX6_32
+# 	CFGMUX6
+# 	CFGMUX8_42
+# 	CFGMUX8S3
+# 	CFG_NOTINV
+# 	clk_fb_compensate
+# 	CVLVDS
+# 	DIV
+# 	DLLV1
+# 	DSP56V1
+# 	efuse_idx16
+# 	EMBMUX5S4
+# 	FG6X2
+# 	hpc_d2s
+# 	hpc_s2d
+# 	IOC_LVDS
+# 	JTAG_DBWV1
+# 	LBUF
+# 	LRAM64
+# 	LRAM_CTRL
+# 	MUX2S
+# 	OSCV1
+# 	PLLV1
+# 	REG2CKSR
+# 	SOC_SLAVE_BUS
+# 	UPDATE
+# 	ahb_cfg_register
+# 	bus_top
+# 	CFGMUX2S1_203
+# 	CFGMUX2S1_340
+# 	CFGMUX8S3_600
+# 	ctrl_wrapper
+# 	DDR_CRG_CORE
+# 	GX_CRG_CORE
+# 	PCIE_V1
+# 	phy_wrapper
+# 	SERDES_PHY_V1
+# 	GUC_GPIO
+# End time: 14:48:17 on Jun 21,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 2
+# vlog -vlog01compat -work work +protect "D:/CreateIC/00_sift/simulate/../ip_core/fifo_v2/src/syn_fifo.v" "D:/CreateIC/00_sift/simulate/../ip_core/fifo_v2/src/asyn_fifo.v"
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 14:48:18 on Jun 21,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+protect" D:/CreateIC/00_sift/simulate/../ip_core/fifo_v2/src/syn_fifo.v D:/CreateIC/00_sift/simulate/../ip_core/fifo_v2/src/asyn_fifo.v 
+# -- Compiling module cme_ip_syn_fifo_v2
+# -- Compiling module cme_ip_asyn_fifo_v2
+# 
+# Top level modules:
+# 	cme_ip_syn_fifo_v2
+# 	cme_ip_asyn_fifo_v2
+# End time: 14:48:18 on Jun 21,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work  "D:/CreateIC/00_sift/src/sift/sift_top.v" "D:/CreateIC/00_sift/ip_core/uart/include/hme_uart_config.vh" "D:/CreateIC/00_sift/ip_core/uart/include/hme_uart_const.vh" "D:/CreateIC/00_sift/src/led_ctrl.v" "D:/CreateIC/00_sift/src/sift/block2_27extreme.v" "D:/CreateIC/00_sift/src/sift/block3x3.v" "D:/CreateIC/00_sift/src/sift/block3x3_2.v" "D:/CreateIC/00_sift/src/sift/block11x11.v" "D:/CreateIC/00_sift/src/sift/block11x11_2.v" "D:/CreateIC/00_sift/src/sift/CONV.v" "D:/CreateIC/00_sift/src/sift/cov.v" "D:/CreateIC/00_sift/src/sift/DoG.v" "D:/CreateIC/00_sift/src/sift/local_extreme.v" "D:/CreateIC/00_sift/src/sift/mag_calc.v" "D:/CreateIC/00_sift/src/sift/mag_dir_calc.v" "D:/CreateIC/00_sift/src/sift/my_fifo2.v" "D:/CreateIC/00_sift/src/sift/my_fifo256.v" "D:/CreateIC/00_sift/src/sift/shift_register_3.v" "D:/CreateIC/00_sift/src/sift/shift_register_15.v" "D:/CreateIC/00_sift/src/sift/sift_feat.v" "D:/CreateIC/00_sift/src/mul_new2.v" "D:/CreateIC/00_sift/src/dma/uiFDMA.v" "D:/CreateIC/00_sift/src/ram_image.v" "D:/CreateIC/00_sift/src/pll_sift.v" "D:/CreateIC/00_sift/src/dma/dma_if.v" "D:/CreateIC/00_sift/src/RISCV_P1_TOP.v" "D:/CreateIC/00_sift/src/ddrv1/ddr_v1.v" "D:/CreateIC/00_sift/src/clk_rst_manage.v" "D:/CreateIC/00_sift/src/soc_wrap.v" "D:/CreateIC/00_sift/src/pll_main.v" "D:/CreateIC/00_sift/src/timer.v" "D:/CreateIC/00_sift/src/fifo2ram.v" "D:/CreateIC/00_sift/src/fifo2ram_emb_v1.v" "D:/CreateIC/00_sift/src/fifo2ddr.v" "D:/CreateIC/00_sift/src/fifo2ddr_emb_v1.v" "D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v" "D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v" "D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v" "D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v" "D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v" "D:/CreateIC/00_sift/src/sift_tb/tf_sift_feat.v" +initreg+0
+# Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+# Start time: 14:48:18 on Jun 21,2022
+# vlog -reportprogress 300 -vlog01compat -work work D:/CreateIC/00_sift/src/sift/sift_top.v D:/CreateIC/00_sift/ip_core/uart/include/hme_uart_config.vh D:/CreateIC/00_sift/ip_core/uart/include/hme_uart_const.vh D:/CreateIC/00_sift/src/led_ctrl.v D:/CreateIC/00_sift/src/sift/block2_27extreme.v D:/CreateIC/00_sift/src/sift/block3x3.v D:/CreateIC/00_sift/src/sift/block3x3_2.v D:/CreateIC/00_sift/src/sift/block11x11.v D:/CreateIC/00_sift/src/sift/block11x11_2.v D:/CreateIC/00_sift/src/sift/CONV.v D:/CreateIC/00_sift/src/sift/cov.v D:/CreateIC/00_sift/src/sift/DoG.v D:/CreateIC/00_sift/src/sift/local_extreme.v D:/CreateIC/00_sift/src/sift/mag_calc.v D:/CreateIC/00_sift/src/sift/mag_dir_calc.v D:/CreateIC/00_sift/src/sift/my_fifo2.v D:/CreateIC/00_sift/src/sift/my_fifo256.v D:/CreateIC/00_sift/src/sift/shift_register_3.v D:/CreateIC/00_sift/src/sift/shift_register_15.v D:/CreateIC/00_sift/src/sift/sift_feat.v D:/CreateIC/00_sift/src/mul_new2.v D:/CreateIC/00_sift/src/dma/uiFDMA.v D:/CreateIC/00_sift/src/ram_image.v D:/CreateIC/00_sift/src/pll_sift.v D:/CreateIC/00_sift/src/dma/dma_if.v D:/CreateIC/00_sift/src/RISCV_P1_TOP.v D:/CreateIC/00_sift/src/ddrv1/ddr_v1.v D:/CreateIC/00_sift/src/clk_rst_manage.v D:/CreateIC/00_sift/src/soc_wrap.v D:/CreateIC/00_sift/src/pll_main.v D:/CreateIC/00_sift/src/timer.v D:/CreateIC/00_sift/src/fifo2ram.v D:/CreateIC/00_sift/src/fifo2ram_emb_v1.v D:/CreateIC/00_sift/src/fifo2ddr.v D:/CreateIC/00_sift/src/fifo2ddr_emb_v1.v D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v D:/CreateIC/00_sift/src/sift_tb/tf_sift_feat.v "+initreg+0" 
+# -- Compiling module sift_top
+# -- Compiling module led_ctrl
+# -- Compiling module block2_27extreme
+# -- Compiling module block3x3
+# -- Compiling module block3x3_2
+# -- Compiling module block11x11
+# -- Compiling module block11x11_2
+# -- Compiling module CONV
+# -- Compiling module cov
+# -- Compiling module DoG
+# -- Compiling module local_extreme
+# -- Compiling module mag_calc
+# -- Compiling module mag_dir_calc
+# -- Compiling module my_fifo2
+# -- Compiling module my_fifo256
+# -- Compiling module shift_register_3
+# -- Compiling module shift_register_15
+# -- Compiling module sift_feat
+# -- Compiling module mul_new2
+# -- Compiling module uiFDMA
+# -- Compiling module ram_image
+# -- Compiling module ram_image_MUX
+# -- Compiling module ram_image_AND
+# -- Compiling module ram_image_ADDR_PIPE_A
+# -- Compiling module ram_image_NOT
+# -- Compiling module pll_sift
+# -- Compiling module dma_if
+# -- Compiling module RISCV_P1_TOP
+# -- Compiling module ddr_v1
+# -- Compiling module clk_rst_manage
+# -- Compiling module soc_wrap
+# -- Compiling module pll_main
+# -- Compiling module timer
+# -- Compiling module fifo2ram
+# -- Compiling module fifo2ram_emb_v1
+# -- Compiling module fifo2ddr
+# -- Compiling module fifo2ddr_emb_v1
+# -- Compiling module HME_VEX_SOC_V1
+# ** Warning: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(152): (vlog-14110) Pragma protect version 4 ignored (using default version 1).
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(153): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(153): 'Hercules Microelectronics' is unexpected, pragma protect keyword expected.
+# ** Warning: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(154): (vlog-14159) Pragma protect keyword "unknown" has no effect in decrypted text.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(154): Unknown pragma protect keyword "email".
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(154): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(156): Unknown pragma protect keyword "data_encode".
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(156): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(158): Unknown pragma protect keyword "key_encode".
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(158): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(159): Unknown pragma protect keyword "data_line_size".
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(159): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(160): Pragma protect keyword "key_block" cannot be specified before "key_keyowner".
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(161): near "/": syntax error, unexpected '/'.
+# ** Error: D:/CreateIC/00_sift/src/enc_HME_VEX_SOC_V1.v(161): (vlog-13205) Syntax error found in the scope following 'UZud4f7B6'. Is there a missing '::'?
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(3): Cannot find `include file "hme_uart_config.vh" in directories:
+#     D:/software_kits/modelsim_10.6d/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, D:/software_kits/modelsim_10.6d/uvm-1.1d/../verilog_src/uvm-1.1d/src
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(4): Cannot find `include file "hme_uart_const.vh" in directories:
+#     D:/software_kits/modelsim_10.6d/ovm-2.1.2/../verilog_src/ovm-2.1.2/src, D:/software_kits/modelsim_10.6d/uvm-1.1d/../verilog_src/uvm-1.1d/src
+# -- Compiling module hme_uart_top
+# ** Warning: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(38): (vlog-14110) Pragma protect version 4 ignored (using default version 1).
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(39): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(39): 'Hercules Microelectronics' is unexpected, pragma protect keyword expected.
+# ** Warning: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(40): (vlog-14159) Pragma protect keyword "unknown" has no effect in decrypted text.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(40): Unknown pragma protect keyword "email".
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(40): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(42): Unknown pragma protect keyword "data_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(42): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(44): Unknown pragma protect keyword "key_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(44): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(45): Unknown pragma protect keyword "data_line_size".
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(45): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(46): Pragma protect keyword "key_block" cannot be specified before "key_keyowner".
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(47): near "+": syntax error, unexpected '+'.
+# ** Error: D:/CreateIC/00_sift/ip_core/uart/enc_hme_uart_top.v(47): (vlog-13205) Syntax error found in the scope following 'taRoeU6EL1nGpMu9irppXN2mbm'. Is there a missing '::'?
+# -- Compiling module hme_spi_v3
+# ** Warning: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(79): (vlog-14110) Pragma protect version 4 ignored (using default version 1).
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(80): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(80): 'Hercules Microelectronics' is unexpected, pragma protect keyword expected.
+# ** Warning: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(81): (vlog-14159) Pragma protect keyword "unknown" has no effect in decrypted text.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(81): Unknown pragma protect keyword "email".
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(81): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(83): Unknown pragma protect keyword "data_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(83): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(85): Unknown pragma protect keyword "key_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(85): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(86): Unknown pragma protect keyword "data_line_size".
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(86): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(87): Pragma protect keyword "key_block" cannot be specified before "key_keyowner".
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(88): near "/": syntax error, unexpected '/'.
+# ** Error: D:/CreateIC/00_sift/ip_core/spi/enc_hme_spi_v3.v(88): (vlog-13205) Syntax error found in the scope following 'S9XVdI'. Is there a missing '::'?
+# -- Compiling module hme_gpio_v3
+# ** Warning: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(23): (vlog-14110) Pragma protect version 4 ignored (using default version 1).
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(24): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(24): 'Hercules Microelectronics' is unexpected, pragma protect keyword expected.
+# ** Warning: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(25): (vlog-14159) Pragma protect keyword "unknown" has no effect in decrypted text.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(25): Unknown pragma protect keyword "email".
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(25): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(27): Unknown pragma protect keyword "data_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(27): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(29): Unknown pragma protect keyword "key_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(29): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(30): Unknown pragma protect keyword "data_line_size".
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(30): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(31): Pragma protect keyword "key_block" cannot be specified before "key_keyowner".
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(32): near "+": syntax error, unexpected '+'.
+# ** Error: D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(32): (vlog-13205) Syntax error found in the scope following 'T6mSsLy2Uv05EC2MGLuDqqu25GzVpLwjXHOwMnwmXysbGfOqgsPY4yjmFCxo3Xs7bJD1D0Sw21fl1w9wdlvTfH5pTXmgxRmgrhH'. Is there a missing '::'?
+# -- Compiling module hme_apb_i2c_top
+# ** Warning: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(74): (vlog-14110) Pragma protect version 4 ignored (using default version 1).
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(75): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(75): 'Hercules Microelectronics' is unexpected, pragma protect keyword expected.
+# ** Warning: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(76): (vlog-14159) Pragma protect keyword "unknown" has no effect in decrypted text.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(76): Unknown pragma protect keyword "email".
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(76): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(78): Unknown pragma protect keyword "data_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(78): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(80): Unknown pragma protect keyword "key_encode".
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(80): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(81): Unknown pragma protect keyword "data_line_size".
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(81): '=' is unexpected, pragma protect keyword or comma expected.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(82): Pragma protect keyword "key_block" cannot be specified before "key_keyowner".
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(83): near "/": syntax error, unexpected '/'.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(83): (vlog-13205) Syntax error found in the scope following 'oSWVujNS9cA3DdfENxE05T5gcLdoAZK1ZM'. Is there a missing '::'?
+# -- Compiling module tf_sift_feat
+# ** Error: (vlog-13069) D:/CreateIC/00_sift/ip_core/gpio/enc_hme_gpio_v3.v(32): near "o": syntax error, unexpected IDENTIFIER.
+# ** Error: D:/CreateIC/00_sift/ip_core/iic/enc_hme_apb_i2c_top.v(83): (vlog-13205) Syntax error found in the scope following 'd'. Is there a missing '::'?
+# End time: 14:48:19 on Jun 21,2022, Elapsed time: 0:00:01
+# Errors: 69, Warnings: 10
+# ** Error: D:/software_kits/modelsim_10.6d/win64/vlog failed.
+# Error in macro ./sift_feat_rtl_sim.do line 9
+# D:/software_kits/modelsim_10.6d/win64/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work  "D:/CreateIC/00_sift/src/sift/sift_top.v" "D:/CreateIC/00_sift/ip_core/uart/include/hme_uart_config.vh" "D:/CreateIC/00..."

@@ -1,0 +1,1481 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+                              ./src/main.o (fflush)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o) (__sinit)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o) (_fwalk)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+                              ./src/Bsp/Core/start.o (__libc_init_array)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memset.o)
+                              ./src/Bsp/Driver/spi_flash.o (memset)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o) (_free_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o) (_malloc_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+                              ./src/Bsp/Driver/hme_uart.o (printf)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+                              ./src/main.o (putchar)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+                              ./src/Bsp/Driver/hme_gpio.o (puts)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o) (__sread)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+                              ./src/Bsp/libwrap/sys/fstat.o (isatty)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+                              ./src/Bsp/libwrap/stdlib/malloc.o (sbrk)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+                              ./src/Bsp/libwrap/sys/_exit.o (write)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o) (__swbuf_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o) (_write_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o) (__swsetup_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o) (_close_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o) (_lseek_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o) (_putc_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o) (_read_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o) (errno)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memcpy-asm.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o) (memcpy)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memmove.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o) (memmove)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+                              d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/_exit.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/_exit.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/_exit.o
+ .rodata        0x0000000000000000       0x22 ./src/Bsp/libwrap/sys/_exit.o
+ .text._exit    0x0000000000000000       0xa0 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_info    0x0000000000000000      0x12b ./src/Bsp/libwrap/sys/_exit.o
+ .debug_abbrev  0x0000000000000000       0xb8 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_ranges  0x0000000000000000       0x10 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_line    0x0000000000000000      0x113 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_str     0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/_exit.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/_exit.o
+ .debug_frame   0x0000000000000000       0x2c ./src/Bsp/libwrap/sys/_exit.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/close.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/close.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/close.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/execve.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/execve.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/execve.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/execve.o
+ .text.__wrap_execve
+                0x0000000000000000       0x40 ./src/Bsp/libwrap/sys/execve.o
+ .debug_info    0x0000000000000000      0x9c7 ./src/Bsp/libwrap/sys/execve.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/execve.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/execve.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/execve.o
+ .debug_line    0x0000000000000000      0x1f2 ./src/Bsp/libwrap/sys/execve.o
+ .debug_str     0x0000000000000000      0x5e5 ./src/Bsp/libwrap/sys/execve.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/execve.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/execve.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fork.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fork.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fork.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/fork.o
+ .text.fork     0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/fork.o
+ .debug_info    0x0000000000000000      0x98a ./src/Bsp/libwrap/sys/fork.o
+ .debug_abbrev  0x0000000000000000      0x201 ./src/Bsp/libwrap/sys/fork.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/fork.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/fork.o
+ .debug_line    0x0000000000000000      0x1f0 ./src/Bsp/libwrap/sys/fork.o
+ .debug_str     0x0000000000000000      0x5d0 ./src/Bsp/libwrap/sys/fork.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/fork.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/fork.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fstat.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fstat.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/fstat.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/getpid.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/getpid.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/getpid.o
+ .text.__wrap_getpid
+                0x0000000000000000       0x20 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_info    0x0000000000000000       0x43 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_abbrev  0x0000000000000000       0x3b ./src/Bsp/libwrap/sys/getpid.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_ranges  0x0000000000000000       0x10 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_line    0x0000000000000000       0x60 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_str     0x0000000000000000      0x144 ./src/Bsp/libwrap/sys/getpid.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/getpid.o
+ .debug_frame   0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/getpid.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/isatty.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/isatty.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/isatty.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/kill.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/kill.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/kill.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/kill.o
+ .text.__wrap_kill
+                0x0000000000000000       0x3c ./src/Bsp/libwrap/sys/kill.o
+ .debug_info    0x0000000000000000      0x9ad ./src/Bsp/libwrap/sys/kill.o
+ .debug_abbrev  0x0000000000000000      0x203 ./src/Bsp/libwrap/sys/kill.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/kill.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/kill.o
+ .debug_line    0x0000000000000000      0x1f0 ./src/Bsp/libwrap/sys/kill.o
+ .debug_str     0x0000000000000000      0x5d7 ./src/Bsp/libwrap/sys/kill.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/kill.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/kill.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/link.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/link.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/link.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/link.o
+ .text.__wrap_link
+                0x0000000000000000       0x3c ./src/Bsp/libwrap/sys/link.o
+ .debug_info    0x0000000000000000      0x9ad ./src/Bsp/libwrap/sys/link.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/link.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/link.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/link.o
+ .debug_line    0x0000000000000000      0x1f0 ./src/Bsp/libwrap/sys/link.o
+ .debug_str     0x0000000000000000      0x5e9 ./src/Bsp/libwrap/sys/link.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/link.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/link.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/lseek.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/lseek.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/lseek.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/open.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/open.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/open.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/open.o
+ .text.__wrap_open
+                0x0000000000000000       0x40 ./src/Bsp/libwrap/sys/open.o
+ .debug_info    0x0000000000000000      0x9bc ./src/Bsp/libwrap/sys/open.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/open.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/open.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/open.o
+ .debug_line    0x0000000000000000      0x1f0 ./src/Bsp/libwrap/sys/open.o
+ .debug_str     0x0000000000000000      0x5e7 ./src/Bsp/libwrap/sys/open.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/open.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/open.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/openat.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/openat.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/openat.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/openat.o
+ .text.__wrap_openat
+                0x0000000000000000       0x44 ./src/Bsp/libwrap/sys/openat.o
+ .debug_info    0x0000000000000000      0x9cb ./src/Bsp/libwrap/sys/openat.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/openat.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/openat.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/openat.o
+ .debug_line    0x0000000000000000      0x1f2 ./src/Bsp/libwrap/sys/openat.o
+ .debug_str     0x0000000000000000      0x5f1 ./src/Bsp/libwrap/sys/openat.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/openat.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/openat.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/read.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/read.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/read.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/sbrk.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/sbrk.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/sbrk.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/stat.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/stat.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/stat.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/stat.o
+ .text.__wrap_stat
+                0x0000000000000000       0x3c ./src/Bsp/libwrap/sys/stat.o
+ .debug_info    0x0000000000000000      0xbdd ./src/Bsp/libwrap/sys/stat.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/stat.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/stat.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/stat.o
+ .debug_line    0x0000000000000000      0x355 ./src/Bsp/libwrap/sys/stat.o
+ .debug_str     0x0000000000000000      0x746 ./src/Bsp/libwrap/sys/stat.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/stat.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/stat.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/times.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/times.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/times.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/times.o
+ .text.__wrap_times
+                0x0000000000000000       0x38 ./src/Bsp/libwrap/sys/times.o
+ .debug_info    0x0000000000000000      0x9f2 ./src/Bsp/libwrap/sys/times.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/times.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/times.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/times.o
+ .debug_line    0x0000000000000000      0x1fc ./src/Bsp/libwrap/sys/times.o
+ .debug_str     0x0000000000000000      0x60b ./src/Bsp/libwrap/sys/times.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/times.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/times.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/unlink.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/unlink.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/unlink.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/unlink.o
+ .text.__wrap_unlink
+                0x0000000000000000       0x38 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_info    0x0000000000000000      0x99e ./src/Bsp/libwrap/sys/unlink.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_line    0x0000000000000000      0x1f2 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_str     0x0000000000000000      0x5e0 ./src/Bsp/libwrap/sys/unlink.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/unlink.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/unlink.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/wait.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/wait.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/wait.o
+ .text._stub    0x0000000000000000       0x24 ./src/Bsp/libwrap/sys/wait.o
+ .text.wait     0x0000000000000000       0x38 ./src/Bsp/libwrap/sys/wait.o
+ .debug_info    0x0000000000000000      0x9a4 ./src/Bsp/libwrap/sys/wait.o
+ .debug_abbrev  0x0000000000000000      0x214 ./src/Bsp/libwrap/sys/wait.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/wait.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/wait.o
+ .debug_line    0x0000000000000000      0x1f0 ./src/Bsp/libwrap/sys/wait.o
+ .debug_str     0x0000000000000000      0x5d7 ./src/Bsp/libwrap/sys/wait.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/sys/wait.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/wait.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/write.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/write.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/sys/write.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/stdlib/malloc.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/stdlib/malloc.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/stdlib/malloc.o
+ .text.__wrap_malloc
+                0x0000000000000000       0x54 ./src/Bsp/libwrap/stdlib/malloc.o
+ .text.__wrap_free
+                0x0000000000000000       0x20 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_info    0x0000000000000000       0xaa ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_abbrev  0x0000000000000000       0xa0 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_line    0x0000000000000000       0x93 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_str     0x0000000000000000      0x173 ./src/Bsp/libwrap/stdlib/malloc.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/stdlib/malloc.o
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/stdlib/malloc.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/libwrap/misc/write_hex.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/libwrap/misc/write_hex.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/libwrap/misc/write_hex.o
+ .rodata        0x0000000000000000        0x3 ./src/Bsp/libwrap/misc/write_hex.o
+ .text.write_hex
+                0x0000000000000000       0xf0 ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_info    0x0000000000000000      0xa07 ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_abbrev  0x0000000000000000      0x20b ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_ranges  0x0000000000000000       0x10 ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_line    0x0000000000000000      0x3ca ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_str     0x0000000000000000      0x615 ./src/Bsp/libwrap/misc/write_hex.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/libwrap/misc/write_hex.o
+ .debug_frame   0x0000000000000000       0x38 ./src/Bsp/libwrap/misc/write_hex.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_gpio.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_gpio.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIdGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioObjParamInit
+                0x0000000000000000      0x224 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioCfgStateGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioAllBitsDirGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioDoutDataGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioDinDataGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioPullEnStateGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioPullTypeGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioDebounceCtrlStateGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioDebounceEnStateGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIntrEnStateGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIntrModeGroupStateGet
+                0x0000000000000000      0x134 ./src/Bsp/Driver/hme_gpio.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_iic.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_iic.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_iic.o
+ .rodata        0x0000000000000000       0x1c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cStructDeInit
+                0x0000000000000000       0x8c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cObjParamInit
+                0x0000000000000000       0xf4 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cObjConfigInit
+                0x0000000000000000      0x218 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cSpconCfg
+                0x0000000000000000       0x84 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cDivCfg
+                0x0000000000000000       0x9c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cSpconGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cEnable
+                0x0000000000000000       0x94 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cDisable
+                0x0000000000000000       0x8c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cStateCodeGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cOwnAddressCfg
+                0x0000000000000000       0x84 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cOwnAddressGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cGenerateStart
+                0x0000000000000000       0x94 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cSendData
+                0x0000000000000000       0x84 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cSendDataGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cReceiveData
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_iic.o
+ .text.I2cGenerateStop
+                0x0000000000000000       0x94 ./src/Bsp/Driver/hme_iic.o
+ .text.I2cSend7bitAddress
+                0x0000000000000000       0xd8 ./src/Bsp/Driver/hme_iic.o
+ .text.PlicI2cHandle
+                0x0000000000000000       0x20 ./src/Bsp/Driver/hme_iic.o
+ .debug_info    0x0000000000000000     0x1010 ./src/Bsp/Driver/hme_iic.o
+ .debug_abbrev  0x0000000000000000      0x2c4 ./src/Bsp/Driver/hme_iic.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./src/Bsp/Driver/hme_iic.o
+ .debug_ranges  0x0000000000000000       0x98 ./src/Bsp/Driver/hme_iic.o
+ .debug_line    0x0000000000000000      0xad9 ./src/Bsp/Driver/hme_iic.o
+ .debug_str     0x0000000000000000      0x957 ./src/Bsp/Driver/hme_iic.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/Driver/hme_iic.o
+ .debug_frame   0x0000000000000000      0x2dc ./src/Bsp/Driver/hme_iic.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_plic.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_plic.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_plic.o
+ .text.DevIdTableGet
+                0x0000000000000000       0x94 ./src/Bsp/Driver/hme_plic.o
+ .text.DevPendingOffsetTableGet
+                0x0000000000000000       0xf0 ./src/Bsp/Driver/hme_plic.o
+ .text.IntrPendingGet
+                0x0000000000000000      0x110 ./src/Bsp/Driver/hme_plic.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_spi.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_spi.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_spi.o
+ .rodata        0x0000000000000000       0x33 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiStructDeInit
+                0x0000000000000000       0xb4 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiObjParamInit
+                0x0000000000000000      0x134 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiObjConfigInit
+                0x0000000000000000      0x134 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiSpconCfg
+                0x0000000000000000       0x84 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiSpconGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_spi.o
+ .text.SpiEnable
+                0x0000000000000000       0xa0 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiDisable
+                0x0000000000000000       0xa0 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiStateGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_spi.o
+ .text.SpiSlaveCfg
+                0x0000000000000000       0xf8 ./src/Bsp/Driver/hme_spi.o
+ .text.SpiSlaveSclGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_spi.o
+ .text.SpiHanderRequest
+                0x0000000000000000      0x1b0 ./src/Bsp/Driver/hme_spi.o
+ .text.PlicSpiHandle
+                0x0000000000000000       0x50 ./src/Bsp/Driver/hme_spi.o
+ .debug_info    0x0000000000000000      0xed0 ./src/Bsp/Driver/hme_spi.o
+ .debug_abbrev  0x0000000000000000      0x28a ./src/Bsp/Driver/hme_spi.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./src/Bsp/Driver/hme_spi.o
+ .debug_ranges  0x0000000000000000       0x68 ./src/Bsp/Driver/hme_spi.o
+ .debug_line    0x0000000000000000      0x99b ./src/Bsp/Driver/hme_spi.o
+ .debug_str     0x0000000000000000      0x8f7 ./src/Bsp/Driver/hme_spi.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/Driver/hme_spi.o
+ .debug_frame   0x0000000000000000      0x1f0 ./src/Bsp/Driver/hme_spi.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_timer.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_timer.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_timer.o
+ .text.MachineTimerObjParamInit
+                0x0000000000000000       0xf4 ./src/Bsp/Driver/hme_timer.o
+ .text.MachineTimerCurTimeGet
+                0x0000000000000000       0xa4 ./src/Bsp/Driver/hme_timer.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_uart.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/hme_uart.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIdGet
+                0x0000000000000000       0x70 ./src/Bsp/Driver/hme_uart.o
+ .text.UartObjParamInit
+                0x0000000000000000      0x194 ./src/Bsp/Driver/hme_uart.o
+ .text.UartBaudDivGet
+                0x0000000000000000       0xc4 ./src/Bsp/Driver/hme_uart.o
+ .text.UartTranModeGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_uart.o
+ .text.UartFifoDepthGet
+                0x0000000000000000       0x74 ./src/Bsp/Driver/hme_uart.o
+ .text.UartFifoEnStateGet
+                0x0000000000000000       0x78 ./src/Bsp/Driver/hme_uart.o
+ .text.UartOscGet
+                0x0000000000000000       0x74 ./src/Bsp/Driver/hme_uart.o
+ .text.UartModemCtrlParamGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_uart.o
+ .text.UartScratchGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_uart.o
+ .text.UartByteRecv
+                0x0000000000000000       0xac ./src/Bsp/Driver/hme_uart.o
+ .text.UartBuffSend
+                0x0000000000000000      0x1a4 ./src/Bsp/Driver/hme_uart.o
+ .text.UartStringSend
+                0x0000000000000000       0xcc ./src/Bsp/Driver/hme_uart.o
+ .text.UartBuffRecv
+                0x0000000000000000      0x110 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrEnStateGet
+                0x0000000000000000       0x7c ./src/Bsp/Driver/hme_uart.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/spi_flash.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/spi_flash.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/spi_flash.o
+ .rodata        0x0000000000000000       0x1e ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashInit
+                0x0000000000000000       0x68 ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashWriteEnable
+                0x0000000000000000       0xd4 ./src/Bsp/Driver/spi_flash.o
+ .srodata       0x0000000000000000        0x8 ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashStateGet
+                0x0000000000000000       0xbc ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashSectorErase
+                0x0000000000000000      0x114 ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashBlockErase
+                0x0000000000000000      0x12c ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashChipErase
+                0x0000000000000000       0xe0 ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashPageWrite
+                0x0000000000000000      0x1d8 ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashPageRead
+                0x0000000000000000      0x1ec ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashBufferWrite
+                0x0000000000000000      0x16c ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashBufferRead
+                0x0000000000000000      0x16c ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashRandomRead
+                0x0000000000000000      0x1ec ./src/Bsp/Driver/spi_flash.o
+ .text.SpiFlashReadID
+                0x0000000000000000       0xd4 ./src/Bsp/Driver/spi_flash.o
+ .debug_info    0x0000000000000000     0x1099 ./src/Bsp/Driver/spi_flash.o
+ .debug_abbrev  0x0000000000000000      0x2e5 ./src/Bsp/Driver/spi_flash.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./src/Bsp/Driver/spi_flash.o
+ .debug_ranges  0x0000000000000000       0x68 ./src/Bsp/Driver/spi_flash.o
+ .debug_line    0x0000000000000000      0xe99 ./src/Bsp/Driver/spi_flash.o
+ .debug_str     0x0000000000000000      0x9ae ./src/Bsp/Driver/spi_flash.o
+ .comment       0x0000000000000000       0x34 ./src/Bsp/Driver/spi_flash.o
+ .debug_frame   0x0000000000000000      0x1f8 ./src/Bsp/Driver/spi_flash.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Driver/system.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Driver/system.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Driver/system.o
+ .text.DelayS   0x0000000000000000       0x54 ./src/Bsp/Driver/system.o
+ .text.DelayMs  0x0000000000000000       0x54 ./src/Bsp/Driver/system.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Core/start.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Core/start.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Core/start.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Core/trap.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Core/trap.o
+ .text          0x0000000000000000        0x0 ./src/Bsp/Core/trap_handle.o
+ .data          0x0000000000000000        0x0 ./src/Bsp/Core/trap_handle.o
+ .bss           0x0000000000000000        0x0 ./src/Bsp/Core/trap_handle.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .sdata.dataAddr
+                0x0000000000000000        0x4 ./src/main.o
+ .bss.stSpiObj  0x0000000000000000       0x20 ./src/main.o
+ .bss.stI2cObj  0x0000000000000000        0xc ./src/main.o
+ .text.MainTest
+                0x0000000000000000       0xec ./src/main.o
+ .text.UartSendRecvTest
+                0x0000000000000000      0x134 ./src/main.o
+ .text.SpiFlashTest
+                0x0000000000000000      0x1cc ./src/main.o
+ .text.WaitSiState
+                0x0000000000000000       0x54 ./src/main.o
+ .text.EepromI2cTest
+                0x0000000000000000       0xa4 ./src/main.o
+ .text.EepromI2cWrite
+                0x0000000000000000      0x210 ./src/main.o
+ .text.EepromI2cRead
+                0x0000000000000000      0x2f0 ./src/main.o
+ .sdata.ucWriteData.3792
+                0x0000000000000000        0x1 ./src/main.o
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x38 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x8 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x8 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x14 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0xa0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x70 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .text._putchar_r
+                0x0000000000000000       0x48 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .text.putchar  0x0000000000000000       0x58 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .debug_frame   0x0000000000000000       0x50 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putchar.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x8 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+ .text.sbrk     0x0000000000000000       0x18 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+ .debug_frame   0x0000000000000000       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syssbrk.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+ .text.write    0x0000000000000000       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+ .debug_frame   0x0000000000000000       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-syswrite.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x44 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .text._putc_r  0x0000000000000000       0xcc d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .text.putc     0x0000000000000000       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .debug_frame   0x0000000000000000       0x4c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-putc.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x48 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x1a0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x494 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x60 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000       0x24 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memcpy-asm.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memcpy-asm.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memcpy-asm.o)
+ .text          0x0000000000000000       0x3c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0xb0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x40 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0000000000010000 0x0000000000080000 axwl !r
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/Bsp/libwrap/sys/_exit.o
+LOAD ./src/Bsp/libwrap/sys/close.o
+LOAD ./src/Bsp/libwrap/sys/execve.o
+LOAD ./src/Bsp/libwrap/sys/fork.o
+LOAD ./src/Bsp/libwrap/sys/fstat.o
+LOAD ./src/Bsp/libwrap/sys/getpid.o
+LOAD ./src/Bsp/libwrap/sys/isatty.o
+LOAD ./src/Bsp/libwrap/sys/kill.o
+LOAD ./src/Bsp/libwrap/sys/link.o
+LOAD ./src/Bsp/libwrap/sys/lseek.o
+LOAD ./src/Bsp/libwrap/sys/open.o
+LOAD ./src/Bsp/libwrap/sys/openat.o
+LOAD ./src/Bsp/libwrap/sys/read.o
+LOAD ./src/Bsp/libwrap/sys/sbrk.o
+LOAD ./src/Bsp/libwrap/sys/stat.o
+LOAD ./src/Bsp/libwrap/sys/times.o
+LOAD ./src/Bsp/libwrap/sys/unlink.o
+LOAD ./src/Bsp/libwrap/sys/wait.o
+LOAD ./src/Bsp/libwrap/sys/write.o
+LOAD ./src/Bsp/libwrap/stdlib/malloc.o
+LOAD ./src/Bsp/libwrap/misc/write_hex.o
+LOAD ./src/Bsp/Driver/hme_gpio.o
+LOAD ./src/Bsp/Driver/hme_iic.o
+LOAD ./src/Bsp/Driver/hme_plic.o
+LOAD ./src/Bsp/Driver/hme_spi.o
+LOAD ./src/Bsp/Driver/hme_timer.o
+LOAD ./src/Bsp/Driver/hme_uart.o
+LOAD ./src/Bsp/Driver/spi_flash.o
+LOAD ./src/Bsp/Driver/system.o
+LOAD ./src/Bsp/Core/start.o
+LOAD ./src/Bsp/Core/trap.o
+LOAD ./src/Bsp/Core/trap_handle.o
+LOAD ./src/main.o
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/rv32im/ilp32\libgcc.a
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc_nano.a
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/rv32im/ilp32\libgcc.a
+START GROUP
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/rv32im/ilp32\libgcc.a
+LOAD d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc_nano.a
+END GROUP
+                0x0000000000010000                __stack_size = DEFINED (__stack_size)?__stack_size:0x10000
+                0x0000000000019000                __heap_size = DEFINED (__heap_size)?__heap_size:0x19000
+
+.init           0x0000000000010000       0x78
+ *(SORT_NONE(.init))
+ .init          0x0000000000010000       0x78 ./src/Bsp/Core/start.o
+                0x0000000000010000                _start
+                0x0000000000010074                _init
+
+.text           0x0000000000010078     0x4ff0
+ *(.text.Proc_1)
+ *(.text.Proc_2)
+ *(.text.Proc_3)
+ *(.text.Proc_4)
+ *(.text.Proc_5)
+ *(.text.Proc_6)
+ *(.text.Proc_7)
+ *(.text.Proc_8)
+ *(.text.Func_1)
+ *(.text.Func_2)
+ *(.text.Func_3)
+ *(.text.strcpy)
+ *libc.a:*(.text .text.*)
+ *(.text.main)
+ .text.main     0x0000000000010078       0x2c ./src/main.o
+                0x0000000000010078                main
+ *(.text.unlikely .text.unlikely.*)
+ *(.text.startup .text.startup.*)
+ *(.text .text.*)
+ .text._stub    0x00000000000100a4       0x24 ./src/Bsp/libwrap/sys/close.o
+ .text._close   0x00000000000100c8       0x34 ./src/Bsp/libwrap/sys/close.o
+                0x00000000000100c8                _close
+ .text._stub    0x00000000000100fc       0x24 ./src/Bsp/libwrap/sys/fstat.o
+ .text._fstat   0x0000000000010120       0x5c ./src/Bsp/libwrap/sys/fstat.o
+                0x0000000000010120                _fstat
+ .text._isatty  0x000000000001017c       0x44 ./src/Bsp/libwrap/sys/isatty.o
+                0x000000000001017c                _isatty
+ .text._stub    0x00000000000101c0       0x24 ./src/Bsp/libwrap/sys/lseek.o
+ .text._lseek   0x00000000000101e4       0x54 ./src/Bsp/libwrap/sys/lseek.o
+                0x00000000000101e4                _lseek
+ .text._stub    0x0000000000010238       0x24 ./src/Bsp/libwrap/sys/read.o
+ .text._read    0x000000000001025c       0x3c ./src/Bsp/libwrap/sys/read.o
+                0x000000000001025c                _read
+ .text._sbrk    0x0000000000010298       0x8c ./src/Bsp/libwrap/sys/sbrk.o
+                0x0000000000010298                _sbrk
+ .text._stub    0x0000000000010324       0x24 ./src/Bsp/libwrap/sys/write.o
+ .text._write   0x0000000000010348       0xcc ./src/Bsp/libwrap/sys/write.o
+                0x0000000000010348                _write
+ .text.GpioStructDeInit
+                0x0000000000010414       0xbc ./src/Bsp/Driver/hme_gpio.o
+                0x0000000000010414                GpioStructDeInit
+ .text.GpioObjConfigInit
+                0x00000000000104d0      0x114 ./src/Bsp/Driver/hme_gpio.o
+                0x00000000000104d0                GpioObjConfigInit
+ .text.GpioBitsDirCfg
+                0x00000000000105e4      0x100 ./src/Bsp/Driver/hme_gpio.o
+                0x00000000000105e4                GpioBitsDirCfg
+ .text.GpioBitsDoutSet
+                0x00000000000106e4       0x78 ./src/Bsp/Driver/hme_gpio.o
+                0x00000000000106e4                GpioBitsDoutSet
+ .text.GpioBitsDoutClear
+                0x000000000001075c       0x78 ./src/Bsp/Driver/hme_gpio.o
+                0x000000000001075c                GpioBitsDoutClear
+ .text.GpioBitsPullCfg
+                0x00000000000107d4      0x1b0 ./src/Bsp/Driver/hme_gpio.o
+                0x00000000000107d4                GpioBitsPullCfg
+ .text.GpioBitsDebounceCfg
+                0x0000000000010984      0x1cc ./src/Bsp/Driver/hme_gpio.o
+                0x0000000000010984                GpioBitsDebounceCfg
+ .text.GpioBitsIntrCfg
+                0x0000000000010b50      0x2d8 ./src/Bsp/Driver/hme_gpio.o
+                0x0000000000010b50                GpioBitsIntrCfg
+ .text.GpioBitsIntrDisable
+                0x0000000000010e28       0xa0 ./src/Bsp/Driver/hme_gpio.o
+                0x0000000000010e28                GpioBitsIntrDisable
+ .text.GpioIntrStateGet
+                0x0000000000010ec8       0x68 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIntrStateClear
+                0x0000000000010f30       0x70 ./src/Bsp/Driver/hme_gpio.o
+ .text.PlicGpioHandle
+                0x0000000000010fa0       0x74 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIntrDispatch
+                0x0000000000011014       0x94 ./src/Bsp/Driver/hme_gpio.o
+ .text.GpioIntrExecute
+                0x00000000000110a8       0x34 ./src/Bsp/Driver/hme_gpio.o
+ .text.PlicClaimGet
+                0x00000000000110dc       0x34 ./src/Bsp/Driver/hme_plic.o
+ .text.PlicFinishNotice
+                0x0000000000011110       0x34 ./src/Bsp/Driver/hme_plic.o
+ .text.DevIntrIdTableGet
+                0x0000000000011144       0xec ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011144                DevIntrIdTableGet
+ .text.DevPriorityOffsetTableGet
+                0x0000000000011230       0xec ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011230                DevPriorityOffsetTableGet
+ .text.DevIntrEnTableGet
+                0x000000000001131c       0xec ./src/Bsp/Driver/hme_plic.o
+                0x000000000001131c                DevIntrEnTableGet
+ .text.IntrPrioritySet
+                0x0000000000011408      0x148 ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011408                IntrPrioritySet
+ .text.IntrPriorityGet
+                0x0000000000011550      0x108 ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011550                IntrPriorityGet
+ .text.PlicEnableSet
+                0x0000000000011658       0x50 ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011658                PlicEnableSet
+ .text.PlicEnableGet
+                0x00000000000116a8       0x24 ./src/Bsp/Driver/hme_plic.o
+                0x00000000000116a8                PlicEnableGet
+ .text.PlicThresholdSet
+                0x00000000000116cc       0x74 ./src/Bsp/Driver/hme_plic.o
+                0x00000000000116cc                PlicThresholdSet
+ .text.PlicThresholdGet
+                0x0000000000011740       0x28 ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011740                PlicThresholdGet
+ .text.PlicIntrHandleRegister
+                0x0000000000011768      0x174 ./src/Bsp/Driver/hme_plic.o
+                0x0000000000011768                PlicIntrHandleRegister
+ .text.ExternalInterruptExcute
+                0x00000000000118dc      0x1f4 ./src/Bsp/Driver/hme_plic.o
+                0x00000000000118dc                ExternalInterruptExcute
+ .text.PlicErrExcute
+                0x0000000000011ad0       0x30 ./src/Bsp/Driver/hme_plic.o
+ .text.MachineTimerObjStructDeInit
+                0x0000000000011b00       0x8c ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011b00                MachineTimerObjStructDeInit
+ .text.MachineTimerObjConfigInit
+                0x0000000000011b8c      0x118 ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011b8c                MachineTimerObjConfigInit
+ .text.MachineTimerCmpAdjuct
+                0x0000000000011ca4      0x15c ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011ca4                MachineTimerCmpAdjuct
+ .text.MachineTimerCtrllerCurTimeLGet
+                0x0000000000011e00       0x48 ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011e00                MachineTimerCtrllerCurTimeLGet
+ .text.MachineTimerCtrllerCurTimeHGet
+                0x0000000000011e48       0x48 ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011e48                MachineTimerCtrllerCurTimeHGet
+ .text.MachineTimerCtrllerCmpSet
+                0x0000000000011e90       0x88 ./src/Bsp/Driver/hme_timer.o
+                0x0000000000011e90                MachineTimerCtrllerCmpSet
+ .text.PlicMachineTimerHandle
+                0x0000000000011f18       0x44 ./src/Bsp/Driver/hme_timer.o
+ .text.UartStructDeInit
+                0x0000000000011f5c       0xe4 ./src/Bsp/Driver/hme_uart.o
+                0x0000000000011f5c                UartStructDeInit
+ .text.UartObjConfigInit
+                0x0000000000012040      0x12c ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012040                UartObjConfigInit
+ .text.UartDivAccessSet
+                0x000000000001216c       0x90 ./src/Bsp/Driver/hme_uart.o
+                0x000000000001216c                UartDivAccessSet
+ .text.UartDivAccessClear
+                0x00000000000121fc       0x90 ./src/Bsp/Driver/hme_uart.o
+                0x00000000000121fc                UartDivAccessClear
+ .text.UartBaudDivCfg
+                0x000000000001228c       0xb0 ./src/Bsp/Driver/hme_uart.o
+                0x000000000001228c                UartBaudDivCfg
+ .text.UartTranModeCfg
+                0x000000000001233c       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x000000000001233c                UartTranModeCfg
+ .text.UartFifoCfg
+                0x00000000000123b8       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x00000000000123b8                UartFifoCfg
+ .text.UartOscCfg
+                0x0000000000012434       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012434                UartOscCfg
+ .text.UartLineStatusGet
+                0x00000000000124b0       0x74 ./src/Bsp/Driver/hme_uart.o
+                0x00000000000124b0                UartLineStatusGet
+ .text.UartModemCtrlCfg
+                0x0000000000012524       0x70 ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012524                UartModemCtrlCfg
+ .text.UartModemStatusGet
+                0x0000000000012594       0x74 ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012594                UartModemStatusGet
+ .text.UartScratchCfg
+                0x0000000000012608       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012608                UartScratchCfg
+ .text.UartByteSend
+                0x0000000000012684       0xa0 ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012684                UartByteSend
+ .text.UartIntrCfg
+                0x0000000000012724       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x0000000000012724                UartIntrCfg
+ .text.UartIntrIDGet
+                0x00000000000127a0       0x7c ./src/Bsp/Driver/hme_uart.o
+                0x00000000000127a0                UartIntrIDGet
+ .text.PlicUartHandle
+                0x000000000001281c       0x60 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrDispatch
+                0x000000000001287c       0x94 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrRecvErr
+                0x0000000000012910       0x30 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrRecvExc
+                0x0000000000012940      0x260 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrRecvTimeOut
+                0x0000000000012ba0       0x68 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrSendExc
+                0x0000000000012c08       0x30 ./src/Bsp/Driver/hme_uart.o
+ .text.UartIntrModemExc
+                0x0000000000012c38       0x30 ./src/Bsp/Driver/hme_uart.o
+ .text.DelayUs  0x0000000000012c68       0x50 ./src/Bsp/Driver/system.o
+                0x0000000000012c68                DelayUs
+ .text          0x0000000000012cb8      0x100 ./src/Bsp/Core/trap.o
+                0x0000000000012cb8                trap_entry
+ .text.SoftwareInterruptExcute
+                0x0000000000012db8       0x44 ./src/Bsp/Core/trap_handle.o
+                0x0000000000012db8                SoftwareInterruptExcute
+ .text.TimerInterruptExcute
+                0x0000000000012dfc      0x100 ./src/Bsp/Core/trap_handle.o
+                0x0000000000012dfc                TimerInterruptExcute
+ .text.ExceptionHandleExcute
+                0x0000000000012efc       0x20 ./src/Bsp/Core/trap_handle.o
+                0x0000000000012efc                ExceptionHandleExcute
+ .text.TrapInit
+                0x0000000000012f1c       0x44 ./src/Bsp/Core/trap_handle.o
+                0x0000000000012f1c                TrapInit
+ .text.trap     0x0000000000012f60       0xec ./src/Bsp/Core/trap_handle.o
+                0x0000000000012f60                trap
+ .text.load_image
+                0x000000000001304c       0x54 ./src/main.o
+                0x000000000001304c                load_image
+ .text.soft_rstn
+                0x00000000000130a0       0x54 ./src/main.o
+                0x00000000000130a0                soft_rstn
+ .text.UartIntrTest
+                0x00000000000130f4      0x28c ./src/main.o
+                0x00000000000130f4                UartIntrTest
+ .text.assert_failed
+                0x0000000000013380       0x30 ./src/main.o
+                0x0000000000013380                assert_failed
+ .text.__sflush_r
+                0x00000000000133b0      0x1ec d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+                0x00000000000133b0                __sflush_r
+ .text._fflush_r
+                0x000000000001359c       0xa0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+                0x000000000001359c                _fflush_r
+ .text.std      0x000000000001363c       0x88 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000000136c4        0xc d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000136c4                _cleanup_r
+ .text.__sfmoreglue
+                0x00000000000136d0       0x6c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000136d0                __sfmoreglue
+ .text.__sinit  0x000000000001373c       0xb4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x000000000001373c                __sinit
+ .text.__sfp    0x00000000000137f0       0xf0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000137f0                __sfp
+ .text._fwalk_reent
+                0x00000000000138e0       0xb4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+                0x00000000000138e0                _fwalk_reent
+ .text.__libc_init_array
+                0x0000000000013994       0xa4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+                0x0000000000013994                __libc_init_array
+ .text          0x0000000000013a38       0x1c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memset.o)
+                0x0000000000013a38                memset
+ .text._free_r  0x0000000000013a54      0x10c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+                0x0000000000013a54                _free_r
+ .text._malloc_r
+                0x0000000000013b60      0x15c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000013b60                _malloc_r
+ .text.printf   0x0000000000013cbc       0x7c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+                0x0000000000013cbc                iprintf
+                0x0000000000013cbc                printf
+ .text._puts_r  0x0000000000013d38      0x160 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+                0x0000000000013d38                _puts_r
+ .text.puts     0x0000000000013e98       0x14 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+                0x0000000000013e98                puts
+ .text._sbrk_r  0x0000000000013eac       0x4c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+                0x0000000000013eac                _sbrk_r
+ .text.__sread  0x0000000000013ef8       0x50 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x0000000000013ef8                __sread
+ .text.__swrite
+                0x0000000000013f48       0x84 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x0000000000013f48                __swrite
+ .text.__sseek  0x0000000000013fcc       0x58 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x0000000000013fcc                __sseek
+ .text.__sclose
+                0x0000000000014024        0x8 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x0000000000014024                __sclose
+ .text.isatty   0x000000000001402c        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+                0x000000000001402c                isatty
+ .text.__swbuf_r
+                0x0000000000014030      0x138 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+                0x0000000000014030                __swbuf_r
+ .text._write_r
+                0x0000000000014168       0x54 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+                0x0000000000014168                _write_r
+ .text.__swsetup_r
+                0x00000000000141bc      0x180 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+                0x00000000000141bc                __swsetup_r
+ .text._close_r
+                0x000000000001433c       0x4c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+                0x000000000001433c                _close_r
+ .text._lseek_r
+                0x0000000000014388       0x54 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+                0x0000000000014388                _lseek_r
+ .text.__swhatbuf_r
+                0x00000000000143dc       0x8c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+                0x00000000000143dc                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000000000014468       0xf0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+                0x0000000000014468                __smakebuf_r
+ .text.__malloc_lock
+                0x0000000000014558        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+                0x0000000000014558                __malloc_lock
+ .text.__malloc_unlock
+                0x000000000001455c        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+                0x000000000001455c                __malloc_unlock
+ .text.__sfputc_r
+                0x0000000000014560       0x3c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000000000001459c       0x74 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000001459c                __sfputs_r
+ .text._vfprintf_r
+                0x0000000000014610      0x3c8 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000014610                _vfprintf_r
+                0x0000000000014610                _vfiprintf_r
+ .text._printf_common
+                0x00000000000149d8      0x1b0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000149d8                _printf_common
+ .text._printf_i
+                0x0000000000014b88      0x3cc d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000014b88                _printf_i
+ .text._read_r  0x0000000000014f54       0x54 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+                0x0000000000014f54                _read_r
+ .text._fstat_r
+                0x0000000000014fa8       0x50 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+                0x0000000000014fa8                _fstat_r
+ .text._isatty_r
+                0x0000000000014ff8       0x4c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+                0x0000000000014ff8                _isatty_r
+ .text.memchr   0x0000000000015044       0x24 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)
+                0x0000000000015044                memchr
+ *(.gnu.linkonce.t.*)
+ *(.note.gnu.build-id)
+
+.sdata2._global_impure_ptr
+                0x0000000000015068        0x4
+ .sdata2._global_impure_ptr
+                0x0000000000015068        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+                0x0000000000015068                _global_impure_ptr
+
+.rela.dyn       0x000000000001506c        0x0
+ .rela.sdata.curbrk.1526
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._sbrk
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.init     0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text.__libc_init_array
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._sbrk_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._write_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._close_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._lseek_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._vfprintf_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._read_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._fstat_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+ .rela.text._isatty_r
+                0x000000000001506c        0x0 ./src/Bsp/libwrap/sys/close.o
+
+.fini
+ *(SORT_NONE(.fini))
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x000000000001506c                . = ALIGN (0x4)
+
+.preinit_array  0x000000000001506c        0x0
+                0x000000000001506c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x000000000001506c                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000001506c        0x0
+                0x000000000001506c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x000000000001506c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000001506c        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.lalign         0x000000000001506c        0x0
+                0x000000000001506c                . = ALIGN (0x4)
+                0x000000000001506c                PROVIDE (_data_lma = .)
+
+.dalign         0x000000000001506c        0x0
+                0x000000000001506c                . = ALIGN (0x4)
+                0x000000000001506c                PROVIDE (_data = .)
+
+.data           0x000000000001506c      0x496
+ *(.rdata)
+ *(.rodata .rodata.*)
+ .rodata        0x000000000001506c       0x5c ./src/Bsp/Driver/hme_gpio.o
+ .rodata        0x00000000000150c8       0x36 ./src/Bsp/Driver/hme_plic.o
+ *fill*         0x00000000000150fe        0x2 
+ .rodata        0x0000000000015100       0x1e ./src/Bsp/Driver/hme_timer.o
+ *fill*         0x000000000001511e        0x2 
+ .rodata        0x0000000000015120       0x74 ./src/Bsp/Driver/hme_uart.o
+ .rodata.UartIntrDispatch
+                0x0000000000015194       0x34 ./src/Bsp/Driver/hme_uart.o
+ .rodata        0x00000000000151c8       0x3f ./src/Bsp/Core/trap_handle.o
+ *fill*         0x0000000000015207        0x1 
+ .rodata        0x0000000000015208      0x110 ./src/main.o
+ .rodata.__sf_fake_stderr
+                0x0000000000015318       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x0000000000015318                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000000015338       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x0000000000015338                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000000015358       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x0000000000015358                __sf_fake_stdout
+ .rodata._vfprintf_r.str1.4
+                0x0000000000015378       0x13 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x000000000001538b        0x1 
+ .rodata._printf_i.str1.4
+                0x000000000001538c       0x28 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                                         0x25 (size before relaxing)
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data.astDevParam
+                0x00000000000153b4       0xd0 ./src/Bsp/Driver/hme_plic.o
+ .data.impure_data
+                0x0000000000015484       0x60 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x00000000000154e8                . = ALIGN (0x8)
+ *fill*         0x00000000000154e4        0x4 
+                [!provide]                        PROVIDE (__global_pointer$ = (. + 0x7f0))
+ *(.sdata .sdata.*)
+ .sdata.curbrk.1526
+                0x00000000000154e8        0x4 ./src/Bsp/libwrap/sys/sbrk.o
+ .sdata.imgAddr
+                0x00000000000154ec        0x4 ./src/main.o
+                0x00000000000154ec                imgAddr
+ .sdata.imgAddrRd
+                0x00000000000154f0        0x4 ./src/main.o
+                0x00000000000154f0                imgAddrRd
+ .sdata._impure_ptr
+                0x00000000000154f4        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-impure.o)
+                0x00000000000154f4                _impure_ptr
+ *(.gnu.linkonce.s.*)
+                0x00000000000154f8                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000000015502                . = (. + 0xa)
+ *fill*         0x00000000000154f8        0xa 
+                0x0000000000015504                . = ALIGN (0x4)
+                0x0000000000015504                PROVIDE (_edata = .)
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (_fbss = .)
+                0x0000000000015504                PROVIDE (__bss_start = .)
+
+.bss            0x0000000000015504      0x100
+ *(.sbss*)
+ .sbss.wr_flag  0x0000000000015504        0x1 ./src/main.o
+                0x0000000000015504                wr_flag
+ .sbss.rd_flag  0x0000000000015505        0x1 ./src/main.o
+                0x0000000000015505                rd_flag
+ *fill*         0x0000000000015506        0x2 
+ .sbss.__malloc_free_list
+                0x0000000000015508        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000015508                __malloc_free_list
+ .sbss.__malloc_sbrk_start
+                0x000000000001550c        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x000000000001550c                __malloc_sbrk_start
+ *(.gnu.linkonce.sb.*)
+ *(.bss .bss.*)
+ .bss.astPlicReg
+                0x0000000000015510       0x9c ./src/Bsp/Driver/hme_plic.o
+ .bss.stUartObj
+                0x00000000000155ac       0x24 ./src/main.o
+                0x00000000000155ac                stUartObj
+ .bss.stTimerObj
+                0x00000000000155d0       0x18 ./src/main.o
+                0x00000000000155d0                stTimerObj
+ .bss.stGpioObj
+                0x00000000000155e8       0x18 ./src/main.o
+                0x00000000000155e8                stGpioObj
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x0000000000015600        0x4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+                0x0000000000015600                errno
+                0x0000000000015604                . = ALIGN (0x4)
+                0x0000000000015608                . = ALIGN (0x8)
+                0x0000000000015608                PROVIDE (_end = .)
+                [!provide]                        PROVIDE (end = .)
+
+.heap           0x0000000000015604    0x19000
+                0x0000000000015604                . = ALIGN (0x4)
+                0x0000000000015604                _heap = .
+                0x0000000000015604                _heap_start = .
+                0x000000000002e604                . = (. + __heap_size)
+ *fill*         0x0000000000015604    0x19000 
+                0x000000000002e604                _heap_end = .
+
+.stack          0x000000000002e610    0x10000
+                0x000000000003e610                . = (. + __stack_size)
+ *fill*         0x000000000002e610    0x10000 
+                0x000000000003e610                PROVIDE (_sp = .)
+                0x000000000003e610                __freertos_irq_stack_top = .
+OUTPUT(app_demo.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0xa7c5
+ .debug_info    0x0000000000000000      0x99d ./src/Bsp/libwrap/sys/close.o
+ .debug_info    0x000000000000099d      0xc2a ./src/Bsp/libwrap/sys/fstat.o
+ .debug_info    0x00000000000015c7       0xf3 ./src/Bsp/libwrap/sys/isatty.o
+ .debug_info    0x00000000000016ba      0xa21 ./src/Bsp/libwrap/sys/lseek.o
+ .debug_info    0x00000000000020db      0xa2d ./src/Bsp/libwrap/sys/read.o
+ .debug_info    0x0000000000002b08       0xbc ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_info    0x0000000000002bc4      0xd54 ./src/Bsp/libwrap/sys/write.o
+ .debug_info    0x0000000000003918     0x134b ./src/Bsp/Driver/hme_gpio.o
+ .debug_info    0x0000000000004c63      0xef8 ./src/Bsp/Driver/hme_plic.o
+ .debug_info    0x0000000000005b5b      0xd26 ./src/Bsp/Driver/hme_timer.o
+ .debug_info    0x0000000000006881     0x15b9 ./src/Bsp/Driver/hme_uart.o
+ .debug_info    0x0000000000007e3a      0x9d4 ./src/Bsp/Driver/system.o
+ .debug_info    0x000000000000880e       0x26 ./src/Bsp/Core/start.o
+ .debug_info    0x0000000000008834       0x26 ./src/Bsp/Core/trap.o
+ .debug_info    0x000000000000885a      0xb68 ./src/Bsp/Core/trap_handle.o
+ .debug_info    0x00000000000093c2     0x1403 ./src/main.o
+
+.debug_abbrev   0x0000000000000000     0x1e78
+ .debug_abbrev  0x0000000000000000      0x203 ./src/Bsp/libwrap/sys/close.o
+ .debug_abbrev  0x0000000000000203      0x203 ./src/Bsp/libwrap/sys/fstat.o
+ .debug_abbrev  0x0000000000000406       0x73 ./src/Bsp/libwrap/sys/isatty.o
+ .debug_abbrev  0x0000000000000479      0x203 ./src/Bsp/libwrap/sys/lseek.o
+ .debug_abbrev  0x000000000000067c      0x203 ./src/Bsp/libwrap/sys/read.o
+ .debug_abbrev  0x000000000000087f       0xaa ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_abbrev  0x0000000000000929      0x252 ./src/Bsp/libwrap/sys/write.o
+ .debug_abbrev  0x0000000000000b7b      0x2e2 ./src/Bsp/Driver/hme_gpio.o
+ .debug_abbrev  0x0000000000000e5d      0x2e7 ./src/Bsp/Driver/hme_plic.o
+ .debug_abbrev  0x0000000000001144      0x268 ./src/Bsp/Driver/hme_timer.o
+ .debug_abbrev  0x00000000000013ac      0x303 ./src/Bsp/Driver/hme_uart.o
+ .debug_abbrev  0x00000000000016af      0x1fa ./src/Bsp/Driver/system.o
+ .debug_abbrev  0x00000000000018a9       0x14 ./src/Bsp/Core/start.o
+ .debug_abbrev  0x00000000000018bd       0x14 ./src/Bsp/Core/trap.o
+ .debug_abbrev  0x00000000000018d1      0x2ae ./src/Bsp/Core/trap_handle.o
+ .debug_abbrev  0x0000000000001b7f      0x2f9 ./src/main.o
+
+.debug_aranges  0x0000000000000000      0x550
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/Bsp/libwrap/sys/close.o
+ .debug_aranges
+                0x0000000000000028       0x28 ./src/Bsp/libwrap/sys/fstat.o
+ .debug_aranges
+                0x0000000000000050       0x20 ./src/Bsp/libwrap/sys/isatty.o
+ .debug_aranges
+                0x0000000000000070       0x28 ./src/Bsp/libwrap/sys/lseek.o
+ .debug_aranges
+                0x0000000000000098       0x28 ./src/Bsp/libwrap/sys/read.o
+ .debug_aranges
+                0x00000000000000c0       0x20 ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_aranges
+                0x00000000000000e0       0x28 ./src/Bsp/libwrap/sys/write.o
+ .debug_aranges
+                0x0000000000000108       0xe8 ./src/Bsp/Driver/hme_gpio.o
+ .debug_aranges
+                0x00000000000001f0       0xa0 ./src/Bsp/Driver/hme_plic.o
+ .debug_aranges
+                0x0000000000000290       0x60 ./src/Bsp/Driver/hme_timer.o
+ .debug_aranges
+                0x00000000000002f0      0x138 ./src/Bsp/Driver/hme_uart.o
+ .debug_aranges
+                0x0000000000000428       0x30 ./src/Bsp/Driver/system.o
+ .debug_aranges
+                0x0000000000000458       0x20 ./src/Bsp/Core/start.o
+ .debug_aranges
+                0x0000000000000478       0x20 ./src/Bsp/Core/trap.o
+ .debug_aranges
+                0x0000000000000498       0x40 ./src/Bsp/Core/trap_handle.o
+ .debug_aranges
+                0x00000000000004d8       0x78 ./src/main.o
+
+.debug_ranges   0x0000000000000000      0x430
+ .debug_ranges  0x0000000000000000       0x18 ./src/Bsp/libwrap/sys/close.o
+ .debug_ranges  0x0000000000000018       0x18 ./src/Bsp/libwrap/sys/fstat.o
+ .debug_ranges  0x0000000000000030       0x10 ./src/Bsp/libwrap/sys/isatty.o
+ .debug_ranges  0x0000000000000040       0x18 ./src/Bsp/libwrap/sys/lseek.o
+ .debug_ranges  0x0000000000000058       0x18 ./src/Bsp/libwrap/sys/read.o
+ .debug_ranges  0x0000000000000070       0x10 ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_ranges  0x0000000000000080       0x18 ./src/Bsp/libwrap/sys/write.o
+ .debug_ranges  0x0000000000000098       0xd8 ./src/Bsp/Driver/hme_gpio.o
+ .debug_ranges  0x0000000000000170       0x90 ./src/Bsp/Driver/hme_plic.o
+ .debug_ranges  0x0000000000000200       0x50 ./src/Bsp/Driver/hme_timer.o
+ .debug_ranges  0x0000000000000250      0x128 ./src/Bsp/Driver/hme_uart.o
+ .debug_ranges  0x0000000000000378       0x20 ./src/Bsp/Driver/system.o
+ .debug_ranges  0x0000000000000398       0x30 ./src/Bsp/Core/trap_handle.o
+ .debug_ranges  0x00000000000003c8       0x68 ./src/main.o
+
+.debug_line     0x0000000000000000     0x619c
+ .debug_line    0x0000000000000000      0x1f1 ./src/Bsp/libwrap/sys/close.o
+ .debug_line    0x00000000000001f1      0x382 ./src/Bsp/libwrap/sys/fstat.o
+ .debug_line    0x0000000000000573      0x11a ./src/Bsp/libwrap/sys/isatty.o
+ .debug_line    0x000000000000068d      0x220 ./src/Bsp/libwrap/sys/lseek.o
+ .debug_line    0x00000000000008ad      0x2a3 ./src/Bsp/libwrap/sys/read.o
+ .debug_line    0x0000000000000b50      0x13e ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_line    0x0000000000000c8e      0x45a ./src/Bsp/libwrap/sys/write.o
+ .debug_line    0x00000000000010e8     0x12e3 ./src/Bsp/Driver/hme_gpio.o
+ .debug_line    0x00000000000023cb      0xc53 ./src/Bsp/Driver/hme_plic.o
+ .debug_line    0x000000000000301e      0x6e6 ./src/Bsp/Driver/hme_timer.o
+ .debug_line    0x0000000000003704     0x14b9 ./src/Bsp/Driver/hme_uart.o
+ .debug_line    0x0000000000004bbd      0x313 ./src/Bsp/Driver/system.o
+ .debug_line    0x0000000000004ed0       0xcc ./src/Bsp/Core/start.o
+ .debug_line    0x0000000000004f9c      0x1bf ./src/Bsp/Core/trap.o
+ .debug_line    0x000000000000515b      0x4ec ./src/Bsp/Core/trap_handle.o
+ .debug_line    0x0000000000005647      0xb55 ./src/main.o
+
+.debug_str      0x0000000000000000     0x1aa5
+ .debug_str     0x0000000000000000      0x55e ./src/Bsp/libwrap/sys/close.o
+                                        0x5cc (size before relaxing)
+ .debug_str     0x000000000000055e      0x171 ./src/Bsp/libwrap/sys/fstat.o
+                                        0x76a (size before relaxing)
+ .debug_str     0x00000000000006cf       0x28 ./src/Bsp/libwrap/sys/isatty.o
+                                        0x200 (size before relaxing)
+ .debug_str     0x00000000000006f7       0x26 ./src/Bsp/libwrap/sys/lseek.o
+                                        0x60e (size before relaxing)
+ .debug_str     0x000000000000071d       0x28 ./src/Bsp/libwrap/sys/read.o
+                                        0x611 (size before relaxing)
+ .debug_str     0x0000000000000745       0x44 ./src/Bsp/libwrap/sys/sbrk.o
+                                        0x18b (size before relaxing)
+ .debug_str     0x0000000000000789      0x17f ./src/Bsp/libwrap/sys/write.o
+                                        0x7ae (size before relaxing)
+ .debug_str     0x0000000000000908      0x5d5 ./src/Bsp/Driver/hme_gpio.o
+                                        0xc44 (size before relaxing)
+ .debug_str     0x0000000000000edd      0x356 ./src/Bsp/Driver/hme_plic.o
+                                        0x9d2 (size before relaxing)
+ .debug_str     0x0000000000001233      0x1d5 ./src/Bsp/Driver/hme_timer.o
+                                        0x8b4 (size before relaxing)
+ .debug_str     0x0000000000001408      0x33b ./src/Bsp/Driver/hme_uart.o
+                                        0xb18 (size before relaxing)
+ .debug_str     0x0000000000001743       0x42 ./src/Bsp/Driver/system.o
+                                        0x5fd (size before relaxing)
+ .debug_str     0x0000000000001785       0x24 ./src/Bsp/Core/start.o
+                                         0x77 (size before relaxing)
+ .debug_str     0x00000000000017a9       0x17 ./src/Bsp/Core/trap.o
+                                         0x76 (size before relaxing)
+ .debug_str     0x00000000000017c0       0xbc ./src/Bsp/Core/trap_handle.o
+                                        0x6f1 (size before relaxing)
+ .debug_str     0x000000000000187c      0x229 ./src/main.o
+                                        0xba6 (size before relaxing)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 ./src/Bsp/libwrap/sys/close.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/fstat.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/isatty.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/lseek.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/read.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/sbrk.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/libwrap/sys/write.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Driver/hme_gpio.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Driver/hme_plic.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Driver/hme_timer.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Driver/hme_uart.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Driver/system.o
+ .comment       0x0000000000000033       0x34 ./src/Bsp/Core/trap_handle.o
+ .comment       0x0000000000000033       0x34 ./src/main.o
+
+.debug_frame    0x0000000000000000     0x1c2c
+ .debug_frame   0x0000000000000000       0x5c ./src/Bsp/libwrap/sys/close.o
+ .debug_frame   0x000000000000005c       0x5c ./src/Bsp/libwrap/sys/fstat.o
+ .debug_frame   0x00000000000000b8       0x34 ./src/Bsp/libwrap/sys/isatty.o
+ .debug_frame   0x00000000000000ec       0x5c ./src/Bsp/libwrap/sys/lseek.o
+ .debug_frame   0x0000000000000148       0x5c ./src/Bsp/libwrap/sys/read.o
+ .debug_frame   0x00000000000001a4       0x34 ./src/Bsp/libwrap/sys/sbrk.o
+ .debug_frame   0x00000000000001d8       0x5c ./src/Bsp/libwrap/sys/write.o
+ .debug_frame   0x0000000000000234      0x420 ./src/Bsp/Driver/hme_gpio.o
+ .debug_frame   0x0000000000000654      0x2a4 ./src/Bsp/Driver/hme_plic.o
+ .debug_frame   0x00000000000008f8      0x1a0 ./src/Bsp/Driver/hme_timer.o
+ .debug_frame   0x0000000000000a98      0x5b0 ./src/Bsp/Driver/hme_uart.o
+ .debug_frame   0x0000000000001048       0x7c ./src/Bsp/Driver/system.o
+ .debug_frame   0x00000000000010c4       0xe0 ./src/Bsp/Core/trap_handle.o
+ .debug_frame   0x00000000000011a4      0x1b0 ./src/main.o
+ .debug_frame   0x0000000000001354       0x7c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000013d0      0x148 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000001518       0x88 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000015a0       0x3c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000015dc       0x40 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x000000000000161c       0x40 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000000000000165c       0x54 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000000016b0       0x54 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-puts.o)
+ .debug_frame   0x0000000000001704       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000001734       0xa4 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000017d8       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .debug_frame   0x00000000000017f8       0x50 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000001848       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000001878       0x3c d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000018b4       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000000000018e4       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000001914       0x64 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000001978       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000019a8       0xd0 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000001a78       0x90 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000001b08       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001b38       0x74 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000001bac       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000001bdc       0x30 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000001c0c       0x20 d:/createic/01_cpipc/riscv/riscv_vex_env/gnu mcu eclipse/risc-v embedded gcc/riscv-xpack-toolchain_8.3.0-1.1_windows/bin/../lib/gcc/riscv-none-embed/8.3.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libg_nano.a(lib_a-memchr.o)

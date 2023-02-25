@@ -1,0 +1,25 @@
+/*
+ * hme_timer.h
+ *
+ *  Created on: 2021Äê11ÔÂ23ÈÕ
+ *      Author: Administrator
+ */
+
+#ifndef _HME_TIMER_H_
+#define _HME_TIMER_H_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include "hme_riscv.h"
+
+uint64_t MachineTimerCurTimeGet();
+void MachineTimerInit();
+void MachineTimerCmpAdjuct();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* _HME_TIMER_H_ */

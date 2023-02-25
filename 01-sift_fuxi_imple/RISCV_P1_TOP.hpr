@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AgateProject version="3.2">
+    <name>RISCV_P1_TOP</name>
+    <device>P1P060N0V324C7</device>
+    <topModule>RISCV_P1_TOP</topModule>
+    <tbTopModule>tf_sift_feat</tbTopModule>
+    <tbTopDesignInstName>sift_feat</tbTopDesignInstName>
+    <MonitorSignal>Default|Default</MonitorSignal>
+    <command-args toolName="placer">
+        <argument name="double_set_ctrl_signal">1</argument>
+    </command-args>
+    <command-args toolName="synthesis">
+        <argument name="col_con_add">1</argument>
+        <argument name="min_ce_fanout">4</argument>
+        <argument name="mode">fast</argument>
+        <argument name="optimize_primitives">1</argument>
+        <argument name="reg_opt">1</argument>
+        <argument name="split_large_net_fanout">20</argument>
+    </command-args>
+    <files>
+        <file>$(PRJ_DIR)/src/sift/sift_top.v</file>
+        <file>$(PRJ_DIR)/constraint/RISCV_P1_TOP.sdc</file>
+        <file type="Verilog">$(PRJ_DIR)/ip_core/uart/include/hme_uart_config.vh</file>
+        <file type="Verilog">$(PRJ_DIR)/ip_core/uart/include/hme_uart_const.vh</file>
+        <file>$(PRJ_DIR)/src/led_ctrl.v</file>
+        <file>$(PRJ_DIR)/src/sift/block2_27extreme.v</file>
+        <file>$(PRJ_DIR)/src/sift/block3x3.v</file>
+        <file>$(PRJ_DIR)/src/sift/block3x3_2.v</file>
+        <file>$(PRJ_DIR)/src/sift/block11x11.v</file>
+        <file>$(PRJ_DIR)/src/sift/block11x11_2.v</file>
+        <file>$(PRJ_DIR)/src/sift/CONV.v</file>
+        <file>$(PRJ_DIR)/src/sift/cov.v</file>
+        <file>$(PRJ_DIR)/src/sift/DoG.v</file>
+        <file>$(PRJ_DIR)/src/sift/local_extreme.v</file>
+        <file>$(PRJ_DIR)/src/sift/mag_calc.v</file>
+        <file>$(PRJ_DIR)/src/sift/mag_dir_calc.v</file>
+        <file>$(PRJ_DIR)/src/sift/my_fifo2.v</file>
+        <file>$(PRJ_DIR)/src/sift/my_fifo256.v</file>
+        <file>$(PRJ_DIR)/src/sift/shift_register_3.v</file>
+        <file>$(PRJ_DIR)/src/sift/shift_register_15.v</file>
+        <file>$(PRJ_DIR)/src/sift/sift_feat.v</file>
+        <file>$(PRJ_DIR)/src/mul_new2.v</file>
+        <file>$(PRJ_DIR)/src/dma/uiFDMA.v</file>
+        <file>$(PRJ_DIR)/src/ram_image.v</file>
+        <file>$(PRJ_DIR)/src/pll_sift.v</file>
+        <file>$(PRJ_DIR)/src/dma/dma_if.v</file>
+        <file>$(PRJ_DIR)/src/RISCV_P1_TOP.v</file>
+        <file>$(PRJ_DIR)/src/ddrv1/ddr_v1.v</file>
+        <file>$(PRJ_DIR)/src/clk_rst_manage.v</file>
+        <file>$(PRJ_DIR)/src/soc_wrap.v</file>
+        <file>$(PRJ_DIR)/src/pll_main.v</file>
+        <file>$(PRJ_DIR)/src/timer.v</file>
+        <file>$(PRJ_DIR)/src/fifo2ddr.v</file>
+        <file>$(PRJ_DIR)/src/fifo2ddr_emb_v1.v</file>
+        <file>$(PRJ_DIR)/src/enc_HME_VEX_SOC_V1.v</file>
+        <file>$(PRJ_DIR)/ip_core/uart/enc_hme_uart_top.v</file>
+        <file>$(PRJ_DIR)/ip_core/spi/enc_hme_spi_v3.v</file>
+        <file>$(PRJ_DIR)/ip_core/gpio/enc_hme_gpio_v3.v</file>
+        <file>$(PRJ_DIR)/ip_core/iic/enc_hme_apb_i2c_top.v</file>
+        <file>$(PRJ_DIR)/src/dbg_core1.v</file>
+        <file>$(PRJ_DIR)/src/sift/sift_desc.v</file>
+        <file isTestBench="1">$(PRJ_DIR)/src/sift_tb/tf_sift_feat.v</file>
+    </files>
+</AgateProject>

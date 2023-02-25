@@ -1,0 +1,12 @@
+cs_place io_CLK_25M_inst C44R55.io_guts.iob_ck.I0.I60.Iioc0
+cs_place io_RST_N_inst C86R43.io_guts.iob_ck.I0.I60.Iioc0
+cs_place io_jtag_tck_inst C65R51.u0_io_top.U_basic_io.u_io_14_seu_fail.u0_singleIO.ioc_fun
+cs_place io_jtag_tdi_inst C65R54.u0_io_top.U_basic_io.u_io_17_ps_d14.u0_singleIO.ioc_fun
+cs_place io_jtag_tdo_inst C65R52.u0_io_top.U_basic_io.u_io_15_ps_busy.u0_singleIO.ioc_fun
+cs_place io_jtag_tms_inst C65R53.u0_io_top.U_basic_io.u_io_16_ps_d15.u0_singleIO.ioc_fun
+cs_place io_led_0__inst C44R87.io_guts.iob_ck.I0.I60.Iioc0
+cs_place io_led_1__inst C44R87.io_guts.iob_ck.I0.I60.Iioc1
+cs_place io_led_2__inst C44R83.io_guts.iob_ck.I0.I60.Iioc0
+cs_place io_led_3__inst C44R83.io_guts.iob_ck.I0.I60.Iioc1
+cs_place io_uart0_rxd_inst C86R63.io_guts.iob_ck.I0.I60.Iioc1
+cs_place io_uart0_txd_inst C86R63.io_guts.iob_ck.I0.I60.Iioc0

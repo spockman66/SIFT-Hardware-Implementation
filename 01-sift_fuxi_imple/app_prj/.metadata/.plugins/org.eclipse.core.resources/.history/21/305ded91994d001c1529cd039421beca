@@ -1,0 +1,37 @@
+/*
+ * hme_timer.h
+ *
+ *  Created on: 2021Äê11ÔÂ23ÈÕ
+ *      Author: Administrator
+ */
+
+#ifndef _HME_TIMER_H_
+#define _HME_TIMER_H_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include "hme_riscv.h"
+#include "hme_plic.h"
+
+#define DEF_MACHINE_TIMER_ID           DEV0_INTR_NUM
+
+#define DEF_PERIOD_MS        (500)
+#define DEF_TIMER_PERIOD     (DEF_PERIOD_MS * 1000 * 1000 / CLK_CYC)
+
+typedef struct {
+	uint16_t  usDevId;
+	uint8_t   ucIntrEnFlage;
+	uint8_t   ucPriority;
+}ST_DEV_TIMER_ATTR, *PST_DEV_TIMER_ATTR;
+
+EN_RET_TYPE MachineTimerConfigInit(PST_DEV_TIMER_ATTR ptrCfgAttr);
+uint64_t MachineTimerCurTimeGet();
+void MachineTimerCmpAdjuct();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* _HME_TIMER_H_ */

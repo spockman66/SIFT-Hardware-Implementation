@@ -1,0 +1,146 @@
+/*
+ * hme_plic.c
+ *
+ *  Created on: 2021Äê11ÔÂ10ÈÕ
+ *      Author: Administrator
+ */
+
+#include "hme_plic.h"
+
+//Plic Register Table
+static ST_PLIC_REG_PARAM astPlicReg[DEV_INTR_MAX] = {0};
+
+//Plic Param Table
+static ST_PLIC_DEV_PARAM astDevParam[DEV_INTR_MAX] = {
+		{EN_DEV_ID_0,  DEF_PLIC_INT13_ID, DEF_PLIC_DEV0_PRIORITY_OFFSET,  DEF_PLIC_DEV0_IP_OFFSET , DEF_PLIC_DEV0_IE_EN },
+		{EN_DEV_ID_1,  DEF_PLIC_INT1_ID,  DEF_PLIC_DEV1_PRIORITY_OFFSET,  DEF_PLIC_DEV1_IP_OFFSET , DEF_PLIC_DEV1_IE_EN },
+		{EN_DEV_ID_2,  DEF_PLIC_INT2_ID,  DEF_PLIC_DEV2_PRIORITY_OFFSET,  DEF_PLIC_DEV2_IP_OFFSET , DEF_PLIC_DEV2_IE_EN },
+		{EN_DEV_ID_3,  DEF_PLIC_INT6_ID,  DEF_PLIC_DEV3_PRIORITY_OFFSET,  DEF_PLIC_DEV3_IP_OFFSET , DEF_PLIC_DEV3_IE_EN },
+		{EN_DEV_ID_4,  DEF_PLIC_INT7_ID,  DEF_PLIC_DEV4_PRIORITY_OFFSET,  DEF_PLIC_DEV4_IP_OFFSET , DEF_PLIC_DEV4_IE_EN },
+		{EN_DEV_ID_5,  DEF_PLIC_INT8_ID,  DEF_PLIC_DEV5_PRIORITY_OFFSET,  DEF_PLIC_DEV5_IP_OFFSET , DEF_PLIC_DEV5_IE_EN },
+		{EN_DEV_ID_6,  DEF_PLIC_INT11_ID, DEF_PLIC_DEV6_PRIORITY_OFFSET,  DEF_PLIC_DEV6_IP_OFFSET , DEF_PLIC_DEV6_IE_EN },
+		{EN_DEV_ID_7,  DEF_PLIC_INT3_ID,  DEF_PLIC_DEV7_PRIORITY_OFFSET,  DEF_PLIC_DEV7_IP_OFFSET , DEF_PLIC_DEV7_IE_EN },
+		{EN_DEV_ID_8,  DEF_PLIC_INT4_ID,  DEF_PLIC_DEV8_PRIORITY_OFFSET,  DEF_PLIC_DEV8_IP_OFFSET , DEF_PLIC_DEV8_IE_EN },
+		{EN_DEV_ID_9,  DEF_PLIC_INT5_ID,  DEF_PLIC_DEV9_PRIORITY_OFFSET,  DEF_PLIC_DEV9_IP_OFFSET , DEF_PLIC_DEV9_IE_EN },
+		{EN_DEV_ID_10, DEF_PLIC_INT12_ID, DEF_PLIC_DEV10_PRIORITY_OFFSET, DEF_PLIC_DEV10_IP_OFFSET, DEF_PLIC_DEV10_IE_EN},
+		{EN_DEV_ID_11, DEF_PLIC_INT9_ID,  DEF_PLIC_DEV11_PRIORITY_OFFSET, DEF_PLIC_DEV11_IP_OFFSET, DEF_PLIC_DEV11_IE_EN},
+		{EN_DEV_ID_12, DEF_PLIC_INT10_ID, DEF_PLIC_DEV12_PRIORITY_OFFSET, DEF_PLIC_DEV12_IP_OFFSET, DEF_PLIC_DEV12_IE_EN}
+};
+
+static uint16_t PlicClaimGet(void)
+{
+	uint16_t usClaimVal = EN_DEV_ID_0;
+
+    return usClaimVal;
+}
+
+static void PlicFinishNotice(uint8_t usIntrId)
+{
+
+}
+
+
+
+static uint16_t DevIdTableGet(uint16_t usIntrId)
+{
+	uint16_t usDevId = EN_DEV_ID_MAX;
+
+	return usDevId;
+}
+
+
+
+uint16_t DevIntrIdTableGet(uint16_t usDevId)
+{
+	uint16_t usIntrId = 0;
+
+	return usIntrId;
+}
+
+uint32_t DevPriorityOffsetTableGet(uint16_t usDevId)
+{
+	uint32_t ulPriorityOffset = 0;
+
+
+	return ulPriorityOffset;
+}
+
+
+uint32_t DevPendingOffsetTableGet(uint16_t usDevId)
+{
+	uint32_t ulPendingOffset = 0;
+
+
+	return ulPendingOffset;
+}
+
+uint32_t DevIntrEnTableGet(uint16_t usDevId)
+{
+	uint32_t ulEnable = 0;
+
+
+	return ulEnable;
+}
+
+EN_RET_TYPE IntrPrioritySet(uint16_t usDevId, uint8_t ucPriority)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+EN_RET_TYPE IntrPriorityGet(uint16_t usDevId)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+EN_RET_TYPE IntrPendingGet(uint16_t usDevId)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+EN_RET_TYPE PlicEnableSet(uint32_t ulEnable)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+uint32_t PlicEnableGet(void)
+{
+	uint32_t ulEnableVal = 0;
+
+	return ulEnableVal;
+}
+
+EN_RET_TYPE PlicThresholdSet(EN_PRIORITY enIntrThreshold)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+uint8_t PlicThresholdGet(void)
+{
+	uint8_t ucThreshold = (uint8_t)EN_PRIORITY_MAX;
+
+
+    return ucThreshold;
+}
+
+EN_RET_TYPE PlicIntrHandleRegister(PST_PLIC_DEV_PARAM pstIntrAttr, uint16_t usDevId)
+{
+	EN_RET_TYPE enRetVal = EN_RET_TYPE_SUCCESS;
+
+	return enRetVal;
+}
+
+
+void ExternalInterruptExcute(void)
+{
+
+}

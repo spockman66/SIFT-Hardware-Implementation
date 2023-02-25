@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project_status>
+    <project_file_status size="3175" time_stamp="1656032426697" checksum="b51cbd6f171daa3d3715daa72e43ca38"/>
+    <file_signature size="2622" time_stamp="1655984089622" checksum="1b3b8ab59a3b0007a1e3c831e64f50c9" name="RISCV_P1_TOP.aoc"/>
+    <file_signature size="2753" time_stamp="1645079441365" checksum="bb12796932ed19dc25619bf8d995993e" name="constraint/RISCV_P1_TOP.sdc"/>
+    <file_signature size="0" time_stamp="0" checksum="" name="debug/Default/RISCV_P1_TOP.aoc"/>
+    <file_signature size="24110" time_stamp="1645167070202" checksum="85a07d2fad617c15682b284f53a042e3" name="ip_core/gpio/enc_hme_gpio_v3.v"/>
+    <file_signature size="137526" time_stamp="1645167141367" checksum="2a2a018e2f4dbab9bf0803a5497100d1" name="ip_core/iic/enc_hme_apb_i2c_top.v"/>
+    <file_signature size="101839" time_stamp="1645167208364" checksum="33fe35b2c00ecef3315340e63fabd322" name="ip_core/spi/enc_hme_spi_v3.v"/>
+    <file_signature size="93881" time_stamp="1645167243162" checksum="58ec3767ef5ac5d00d37cc10fda95b22" name="ip_core/uart/enc_hme_uart_top.v"/>
+    <file_signature size="775" time_stamp="1636977128384" checksum="62108d565a37aedbd542e0e125f1f545" name="ip_core/uart/include/hme_uart_config.vh"/>
+    <file_signature size="504" time_stamp="1636977126963" checksum="63582cf8668f2ee8fe8392127c11661e" name="ip_core/uart/include/hme_uart_const.vh"/>
+    <file_signature size="37085" time_stamp="1655983985419" checksum="4f7e9de56871f301e73bd708dec0d9a0" name="src/RISCV_P1_TOP.v"/>
+    <file_signature size="5037" time_stamp="1655783893890" checksum="0e8ec8cab1c9df0336b7122e53880386" name="src/clk_rst_manage.v"/>
+    <file_signature size="2806" time_stamp="1655896520806" checksum="9f42ac06417b84dde440e2715347142f" name="src/dbg_core1.v"/>
+    <file_signature size="10065" time_stamp="1606980246589" checksum="296c000cb9e3431d53809a9435016aa4" name="src/ddrv1/ddr_v1.v"/>
+    <file_signature size="6979" time_stamp="1655881962135" checksum="99c7418edda29e4cbc376ae0fa90c037" name="src/dma/dma_if.v"/>
+    <file_signature size="13975" time_stamp="1655783990755" checksum="557aa7e119f295d2fed8b9b3162733af" name="src/dma/uiFDMA.v"/>
+    <file_signature size="1229249" time_stamp="1650421404761" checksum="89d6d51e4bf5dd246bb23fa5d2983eb5" name="src/enc_HME_VEX_SOC_V1.v"/>
+    <file_signature size="4006" time_stamp="1655881515619" checksum="f728dccb5f45cbe2a6d4062c4af77287" name="src/fifo2ddr.v"/>
+    <file_signature size="5738" time_stamp="1655881515617" checksum="ae12e27995fb65ae3e91cb0b4ee889d6" name="src/fifo2ddr_emb_v1.v"/>
+    <file_signature size="1157" time_stamp="1634213194426" checksum="51433f542855c87341f7cac733df5a8f" name="src/led_ctrl.v"/>
+    <file_signature size="3068" time_stamp="1655455681332" checksum="dd9807c5d87799f598f8f19c12f13ef3" name="src/mul_new2.v"/>
+    <file_signature size="5233" time_stamp="1649830943504" checksum="567518404a20c48ff3dbd179f3a79544" name="src/pll_main.v"/>
+    <file_signature size="5126" time_stamp="1655782761226" checksum="bb76b38c52806bcd7459e4b73e69fd6c" name="src/pll_sift.v"/>
+    <file_signature size="450191" time_stamp="1655884393309" checksum="14d24969d866afc62ac909b849783750" name="src/ram_image.v"/>
+    <file_signature size="10129" time_stamp="1655725269151" checksum="c754d6f628537f823147e47b7e6368e4" name="src/sift/CONV.v"/>
+    <file_signature size="5921" time_stamp="1655812469087" checksum="54443e7499ce97e8d459e622cd125f5a" name="src/sift/DoG.v"/>
+    <file_signature size="7489" time_stamp="1655904110172" checksum="a3b798d33f55f279af9e68fd5e47235e" name="src/sift/block11x11.v"/>
+    <file_signature size="7985" time_stamp="1655800654341" checksum="cfae8ac11c0de3d9dfc2b52d6e167caa" name="src/sift/block11x11_2.v"/>
+    <file_signature size="5004" time_stamp="1655867698634" checksum="b3b486780157edcc0b6e9ef723a3aee1" name="src/sift/block2_27extreme.v"/>
+    <file_signature size="2696" time_stamp="1655367716231" checksum="2f6688dc670e8a9a612842d6fb1e9437" name="src/sift/block3x3.v"/>
+    <file_signature size="2811" time_stamp="1655367719708" checksum="aadd9147d75b8d4ee202871579e126ec" name="src/sift/block3x3_2.v"/>
+    <file_signature size="3509" time_stamp="1655904608594" checksum="5d5ecc78ae8410d33afce98dbea86818" name="src/sift/cov.v"/>
+    <file_signature size="4978" time_stamp="1655887996973" checksum="54f49eaa0ae7f83814bc6ca0470054c2" name="src/sift/local_extreme.v"/>
+    <file_signature size="1761" time_stamp="1655372980570" checksum="c11f56cab60741489a6a4b3ad40285b3" name="src/sift/mag_calc.v"/>
+    <file_signature size="4471" time_stamp="1655380437734" checksum="f30e49534101f2a132b339db114b5c52" name="src/sift/mag_dir_calc.v"/>
+    <file_signature size="1948" time_stamp="1329126331679" checksum="4a56e0650dfcdef6a211f629f3ae31d6" name="src/sift/my_fifo2.v"/>
+    <file_signature size="2681" time_stamp="1329126293517" checksum="ea730fca229fdb26a22689ddd118c42e" name="src/sift/my_fifo256.v"/>
+    <file_signature size="1716" time_stamp="1321406986568" checksum="04c090b82c31aacea71fec0ee3316e15" name="src/sift/shift_register_15.v"/>
+    <file_signature size="1177" time_stamp="1317133460409" checksum="43ace7aa5cb80a9a2d1196c345ad8a9c" name="src/sift/shift_register_3.v"/>
+    <file_signature size="10718" time_stamp="1655538766031" checksum="c6a8913e3ddc3c0be4a156272baa4047" name="src/sift/sift_desc.v"/>
+    <file_signature size="3095" time_stamp="1655867721493" checksum="a56a3fa84b9bd6e12de9e1c152ac1066" name="src/sift/sift_feat.v"/>
+    <file_signature size="2941" time_stamp="1655861444267" checksum="3895e9997dae73e761afdd4ea73f1de0" name="src/sift/sift_top.v"/>
+    <file_signature size="1701" time_stamp="1655386072098" checksum="b6b95377c591b977fc27a5b6574e48a1" name="src/sift_tb/tf_sift_feat.v"/>
+    <file_signature size="17764" time_stamp="1649831219380" checksum="557bb955206476b74912fad55c31ae5c" name="src/soc_wrap.v"/>
+    <file_signature size="3634" time_stamp="1655784011459" checksum="7703810825855899182369cd73781859" name="src/timer.v"/>
+    <flow_status>
+        <status status="NeedRun" flow="synthesis"/>
+        <status status="NeedRun" flow="placer"/>
+        <status status="NeedRun" flow="router"/>
+        <status status="NeedRun" flow="bitgen"/>
+        <status status="NeedRun" flow="timer"/>
+        <status status="NeedRun" flow="ixplorer"/>
+        <status profile="Default" status="NeedRun" flow="signal_monitor"/>
+    </flow_status>
+    <io_editor_enabled value="true"/>
+    <io_editor_outdated value="true"/>
+    <sdc_editor_outdated value="true"/>
+    <ixplorer clock="" count="-1" msecs="-1" scan_high="-1" scan_low="-1" target_fmax="-1"/>
+    <pin_alias/>
+    <opened_file/>
+    <platform value="win64"/>
+</project_status>

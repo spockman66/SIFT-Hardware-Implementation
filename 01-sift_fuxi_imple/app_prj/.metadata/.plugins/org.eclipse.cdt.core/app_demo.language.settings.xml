@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+    	
+    <configuration id="ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.278490678" name="Debug">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider id="ilg.gnumcueclipse.managedbuild.cross.riscv.GCCBuiltinSpecsDetector"/>
+            		
+        </extension>
+        	
+    </configuration>
+    	
+    <configuration id="ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1786515957" name="Release">
+        		
+        <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+            			
+            <provider id="ilg.gnumcueclipse.managedbuild.cross.riscv.GCCBuiltinSpecsDetector"/>
+            		
+        </extension>
+        	
+    </configuration>
+    
+</project>

@@ -1,0 +1,46 @@
+/*
+ * hme_timer.c
+ *
+ *  Created on: 2021Äê11ÔÂ23ÈÕ
+ *      Author: Administrator
+ */
+
+#include "hme_timer.h"
+
+#define DEF_PERIOD_MS        (500)
+#define DEF_TIMER_PERIOD     (DEF_PERIOD_MS * 1000 * 1000 / CLK_CYC)
+
+
+static void MachineTimerCmpSet(uint64_t ullComVal)
+{
+	uint32_t ulCurTimerL = ullComVal & 0xFFFFFFFF;
+	uint32_t ulCurTimerH = (ullComVal >> 32) & 0xFFFFFFFF;
+
+	DEV_MACH_TIMER->CMPH = ulCurTimerH;
+	DEV_MACH_TIMER->CMPL = ulCurTimerL;
+}
+
+uint64_t MachineTimerCurTimeGet()
+{
+	uint32_t ulCurTimerL = 0;
+	uint32_t ulCurTimerH = 0;
+	uint64_t ulCurTimerCnt = 0;
+
+	ulCurTimerL = DEV_MACH_TIMER->CUR_CNTL;
+	ulCurTimerH = DEV_MACH_TIMER->CUR_CNTH;
+	ulCurTimerCnt =  (((uint64_t)ulCurTimerH) << 32) | ulCurTimerL;
+	return ulCurTimerCnt;
+}
+
+void MachineTimerInit()
+{
+	MachineTimerCmpAdjuct();
+}
+
+void MachineTimerCmpAdjuct()
+{
+	uint64_t ullCurTimerVal = 0;
+	ullCurTimerVal = MachineTimerCurTimeGet();
+	ullCurTimerVal = ullCurTimerVal + DEF_TIMER_PERIOD;
+	MachineTimerCmpSet(ullCurTimerVal);
+}

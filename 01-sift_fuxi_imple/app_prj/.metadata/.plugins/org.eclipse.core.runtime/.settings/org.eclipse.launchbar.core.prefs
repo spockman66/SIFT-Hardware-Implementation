@@ -1,0 +1,9 @@
+LaunchTargetManager/configs/app_demo\ Debug=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:app_demo Debug
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:app_demo\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:app_demo\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
